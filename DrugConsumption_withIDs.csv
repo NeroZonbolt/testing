@@ -1,0 +1,1886 @@
+ID,Gender,Education,Alcohol(Class),Cannabis(Class),Crack(Class),Heroin(Class)
+1.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+2.0,Hombre,Doctorado finalizado,En la última semana,En el último mes,Nunca,Nunca
+3.0,Hombre,Diploma/certificado profesional,Ayer,En la última decada,Nunca,Nunca
+4.0,Mujer,Maestría finalizada,En el último mes,En la última semana,Nunca,Nunca
+5.0,Mujer,Doctorado finalizado,En el último mes,En la última decada,Nunca,Nunca
+6.0,Mujer,Dejó la escuela a los 18 años,En la última decada,Nunca,Nunca,Nunca
+7.0,Hombre,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+8.0,Hombre,Dejó la escuela a los 16 años,En la última semana,Nunca,Nunca,Nunca
+9.0,Mujer,Diploma/certificado profesional,En el último mes,Nunca,Nunca,Nunca
+10.0,Hombre,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+11.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+12.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+13.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+14.0,Mujer,Diploma/certificado profesional,Hace mas de una decada,Nunca,Nunca,Nunca
+15.0,Mujer,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+16.0,Hombre,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+17.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En la última decada,Nunca,Nunca
+18.0,Hombre,Dejó la escuela a los 16 años,Ayer,Ayer,Nunca,Nunca
+19.0,Hombre,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+20.0,Hombre,Diploma/certificado profesional,En el último mes,Hace mas de una decada,Nunca,Nunca
+21.0,Hombre,Diploma/certificado profesional,Ayer,En la última semana,Nunca,Nunca
+22.0,Hombre,Dejó la escuela antes de los 16 años,En la última semana,Hace mas de una decada,Nunca,Nunca
+23.0,Hombre,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+24.0,Hombre,Dejó la escuela a los 16 años,Ayer,En la última semana,Nunca,Hace mas de una decada
+25.0,Hombre,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+26.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Hace mas de una decada,Nunca,Nunca
+27.0,Mujer,Dejó la escuela a los 18 años,Ayer,Hace mas de una decada,Nunca,Nunca
+28.0,Hombre,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+29.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+30.0,Hombre,Doctorado finalizado,Nunca,Nunca,Nunca,Nunca
+31.0,Hombre,Dejó la escuela a los 16 años,Ayer,En la última semana,Nunca,Hace mas de una decada
+32.0,Mujer,Dejó la escuela a los 16 años,En el último año,Nunca,Nunca,Nunca
+33.0,Hombre,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+34.0,Hombre,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+35.0,Hombre,Grado Universitario,En el último mes,En la última semana,Hace mas de una decada,Hace mas de una decada
+36.0,Hombre,Dejó la escuela antes de los 16 años,En el último año,Nunca,Nunca,Nunca
+37.0,Hombre,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+38.0,Hombre,Dejó la escuela antes de los 16 años,Ayer,En la última decada,Nunca,Nunca
+39.0,Hombre,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+40.0,Mujer,Diploma/certificado profesional,Ayer,Hace mas de una decada,Nunca,Nunca
+41.0,Hombre,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+42.0,Mujer,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+43.0,Hombre,Maestría finalizada,Ayer,En la última semana,Nunca,Nunca
+44.0,Hombre,Diploma/certificado profesional,Ayer,En la última decada,Nunca,Nunca
+45.0,Hombre,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+46.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+47.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,Hace mas de una decada,Nunca,Nunca
+48.0,Hombre,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+49.0,Hombre,Dejó la escuela a los 16 años,Ayer,En el último año,Nunca,Nunca
+50.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+51.0,Hombre,Maestría finalizada,Ayer,En la última decada,Nunca,Nunca
+52.0,Hombre,Diploma/certificado profesional,En la última decada,En la última semana,Nunca,Nunca
+53.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+54.0,Hombre,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+55.0,Hombre,Dejó la escuela a los 16 años,Ayer,En la última semana,Nunca,Nunca
+56.0,Mujer,Diploma/certificado profesional,En el último año,Nunca,Nunca,Nunca
+57.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Nunca,Nunca,Nunca
+58.0,Mujer,Grado Universitario,Hace mas de una decada,Nunca,Nunca,Nunca
+59.0,Hombre,Dejó la escuela a los 18 años,En la última semana,En el último año,En la última semana,Hace mas de una decada
+60.0,Hombre,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+61.0,Mujer,Doctorado finalizado,En la última semana,Nunca,Nunca,Nunca
+62.0,Hombre,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+63.0,Hombre,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+64.0,Hombre,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+65.0,Hombre,Doctorado finalizado,Ayer,Ayer,Nunca,Nunca
+66.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Nunca,Nunca,Nunca
+67.0,Hombre,Dejó la escuela a los 16 años,En el último mes,Nunca,Nunca,Nunca
+68.0,Hombre,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+69.0,Hombre,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+70.0,Mujer,Dejó la escuela a los 16 años,Ayer,Nunca,Nunca,Nunca
+71.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En la última semana,Nunca,Nunca
+72.0,Mujer,Dejó la escuela a los 18 años,En la última semana,Hace mas de una decada,Nunca,Nunca
+73.0,Hombre,Dejó la escuela a los 18 años,Ayer,Hace mas de una decada,Nunca,Nunca
+74.0,Hombre,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+75.0,Mujer,Dejó la escuela a los 16 años,En el último año,Nunca,Nunca,Nunca
+76.0,Hombre,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+77.0,Mujer,Dejó la escuela a los 17 años,En el último mes,Nunca,Nunca,Nunca
+78.0,Hombre,Grado Universitario,En el último año,En la última semana,Nunca,Nunca
+79.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Hace mas de una decada,Nunca,Nunca
+80.0,Hombre,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+81.0,Mujer,Doctorado finalizado,Ayer,Hace mas de una decada,Nunca,Nunca
+82.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Hace mas de una decada
+83.0,Hombre,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+84.0,Mujer,Dejó la escuela a los 17 años,En el último año,Hace mas de una decada,Nunca,Nunca
+85.0,Hombre,Dejó la escuela a los 16 años,En la última semana,En la última semana,Nunca,Nunca
+86.0,Mujer,Dejó la escuela a los 18 años,En el último año,Hace mas de una decada,Nunca,Nunca
+87.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Hace mas de una decada,Nunca,Nunca
+88.0,Hombre,Dejó la escuela a los 16 años,En la última semana,Hace mas de una decada,Nunca,Nunca
+89.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,En la última semana,Nunca,Nunca
+90.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+91.0,Mujer,Maestría finalizada,Ayer,En la última decada,Nunca,Nunca
+92.0,Hombre,Diploma/certificado profesional,En la última decada,Hace mas de una decada,Nunca,Nunca
+93.0,Hombre,Dejó la escuela a los 18 años,En el último mes,Hace mas de una decada,Nunca,Nunca
+94.0,Mujer,Dejó la escuela a los 16 años,En el último año,Nunca,Nunca,Nunca
+95.0,Hombre,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+96.0,Hombre,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+97.0,Mujer,Grado Universitario,En el último mes,En la última semana,Nunca,Nunca
+98.0,Mujer,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+99.0,Hombre,Doctorado finalizado,En el último mes,Hace mas de una decada,Nunca,Nunca
+100.0,Mujer,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+101.0,Hombre,Maestría finalizada,Ayer,Ayer,Nunca,Nunca
+102.0,Mujer,Dejó la escuela a los 16 años,En el último mes,Hace mas de una decada,Nunca,Nunca
+103.0,Hombre,Dejó la escuela a los 18 años,Ayer,Hace mas de una decada,Hace mas de una decada,En la última semana
+104.0,Mujer,Diploma/certificado profesional,En el último mes,Nunca,Nunca,Nunca
+105.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+106.0,Hombre,Diploma/certificado profesional,En el último año,Nunca,Nunca,Nunca
+107.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Nunca,Nunca,Nunca
+108.0,Mujer,Dejó la escuela a los 16 años,En la última semana,Nunca,Nunca,Nunca
+109.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+110.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,Nunca,Nunca
+111.0,Hombre,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+112.0,Hombre,Maestría finalizada,Ayer,En la última decada,Nunca,Nunca
+113.0,Mujer,Grado Universitario,En el último año,En la última semana,Nunca,Nunca
+114.0,Mujer,Diploma/certificado profesional,En el último mes,En la última semana,Nunca,Nunca
+115.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,En la última semana
+116.0,Mujer,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+117.0,Hombre,Diploma/certificado profesional,En el último mes,En la última semana,Nunca,Nunca
+118.0,Mujer,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,En la última semana
+119.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Hace mas de una decada,Nunca,Nunca
+120.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+121.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+122.0,Mujer,Diploma/certificado profesional,En la última decada,Nunca,Nunca,Nunca
+123.0,Hombre,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+124.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+125.0,Hombre,Dejó la escuela a los 16 años,En el último año,Nunca,Nunca,Nunca
+126.0,Hombre,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+127.0,Hombre,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+128.0,Mujer,Dejó la escuela a los 17 años,En la última semana,Nunca,Nunca,Nunca
+129.0,Hombre,Doctorado finalizado,Nunca,Nunca,Nunca,Nunca
+130.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+131.0,Mujer,Dejó la escuela a los 16 años,En la última semana,Nunca,Nunca,Nunca
+132.0,Mujer,Dejó la escuela a los 16 años,En el último mes,Nunca,Nunca,Nunca
+133.0,Mujer,Dejó la escuela a los 18 años,En el último mes,Nunca,Nunca,Nunca
+134.0,Hombre,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+135.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+136.0,Mujer,Dejó la escuela a los 16 años,Hace mas de una decada,Nunca,Nunca,Nunca
+137.0,Mujer,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+138.0,Mujer,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+139.0,Hombre,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+140.0,Hombre,Dejó la escuela a los 16 años,Ayer,Hace mas de una decada,Nunca,Nunca
+141.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+142.0,Mujer,Dejó la escuela a los 16 años,En la última semana,Nunca,Nunca,Nunca
+143.0,Hombre,Dejó la escuela a los 17 años,Ayer,Hace mas de una decada,Nunca,Nunca
+144.0,Hombre,Diploma/certificado profesional,Hace mas de una decada,Nunca,Nunca,Nunca
+145.0,Hombre,Diploma/certificado profesional,Ayer,En la última decada,Nunca,Nunca
+146.0,Mujer,Grado Universitario,En el último mes,Hace mas de una decada,Nunca,Nunca
+147.0,Hombre,Diploma/certificado profesional,Ayer,Hace mas de una decada,Nunca,Nunca
+148.0,Hombre,Maestría finalizada,En el último mes,Nunca,Nunca,Nunca
+149.0,Mujer,Diploma/certificado profesional,En el último mes,Nunca,Nunca,Nunca
+150.0,Mujer,Grado Universitario,En el último mes,En la última semana,Nunca,Nunca
+151.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Nunca,Nunca,Nunca
+152.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+153.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+154.0,Hombre,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+155.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Nunca,Nunca,Nunca
+156.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+157.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,Nunca,Nunca
+158.0,Hombre,Dejó la escuela a los 16 años,Ayer,Nunca,Nunca,Nunca
+159.0,Mujer,Grado Universitario,En el último año,Nunca,Nunca,Nunca
+160.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Nunca,Nunca,Nunca
+161.0,Hombre,Maestría finalizada,En la última semana,Ayer,Nunca,Nunca
+162.0,Hombre,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+163.0,Mujer,Grado Universitario,En el último año,En la última semana,Nunca,Nunca
+164.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Nunca,Nunca,Nunca
+165.0,Mujer,Doctorado finalizado,En el último año,Hace mas de una decada,Nunca,Nunca
+166.0,Hombre,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+167.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,En la última decada,Nunca
+168.0,Mujer,Diploma/certificado profesional,En la última decada,Nunca,Nunca,Nunca
+169.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+170.0,Mujer,Dejó la escuela a los 18 años,En la última semana,Nunca,Nunca,Nunca
+171.0,Hombre,Dejó la escuela a los 16 años,En la última decada,En la última semana,Nunca,Nunca
+172.0,Hombre,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+173.0,Mujer,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+174.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+175.0,Mujer,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+176.0,Mujer,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+177.0,Mujer,Grado Universitario,En el último año,Nunca,Nunca,Nunca
+178.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+179.0,Mujer,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+180.0,Mujer,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+181.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+182.0,Hombre,Doctorado finalizado,En la última semana,Nunca,Nunca,Nunca
+183.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Nunca,Nunca,Nunca
+184.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+185.0,Hombre,Dejó la escuela a los 18 años,Ayer,Nunca,Nunca,Nunca
+186.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+187.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+188.0,Mujer,Dejó la escuela a los 16 años,En el último mes,Hace mas de una decada,Nunca,Nunca
+189.0,Mujer,Dejó la escuela a los 16 años,En el último mes,Nunca,Nunca,Nunca
+190.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+191.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+192.0,Hombre,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+193.0,Mujer,Diploma/certificado profesional,En la última semana,En el último año,Hace mas de una decada,Nunca
+194.0,Mujer,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+195.0,Mujer,Grado Universitario,En el último año,En la última semana,Nunca,Nunca
+196.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+197.0,Hombre,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+198.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+199.0,Mujer,Diploma/certificado profesional,Ayer,Ayer,Nunca,En la última semana
+200.0,Mujer,Diploma/certificado profesional,En el último mes,En el último mes,Nunca,Nunca
+201.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+202.0,Hombre,Maestría finalizada,En la última semana,En la última semana,En la última semana,Nunca
+203.0,Mujer,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+204.0,Hombre,Dejó la escuela antes de los 16 años,En la última semana,Nunca,Nunca,Nunca
+205.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+206.0,Mujer,Dejó la escuela a los 16 años,En la última semana,Nunca,Nunca,Nunca
+207.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+208.0,Mujer,Diploma/certificado profesional,En la última semana,Ayer,Nunca,Nunca
+209.0,Mujer,Grado Universitario,En el último mes,Ayer,Nunca,Nunca
+210.0,Hombre,Maestría finalizada,Nunca,Nunca,Nunca,Nunca
+211.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,Nunca,Nunca,Nunca
+212.0,Mujer,Dejó la escuela a los 16 años,En la última semana,Nunca,Nunca,Nunca
+213.0,Mujer,Diploma/certificado profesional,Ayer,Hace mas de una decada,Nunca,Nunca
+214.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+215.0,Mujer,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+216.0,Mujer,Grado Universitario,En la última semana,En el último mes,Nunca,Nunca
+217.0,Mujer,Diploma/certificado profesional,En la última semana,Hace mas de una decada,Nunca,Nunca
+218.0,Hombre,Diploma/certificado profesional,En la última decada,Hace mas de una decada,Hace mas de una decada,Hace mas de una decada
+219.0,Mujer,Maestría finalizada,En el último mes,En la última decada,Nunca,Nunca
+220.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,Hace mas de una decada,Nunca,Nunca
+221.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+222.0,Mujer,Grado Universitario,En el último año,Nunca,Nunca,Nunca
+223.0,Mujer,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+224.0,Hombre,Grado Universitario,Hace mas de una decada,Nunca,Nunca,Nunca
+225.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+226.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+227.0,Mujer,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+228.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+229.0,Hombre,Maestría finalizada,Ayer,En la última semana,Nunca,Nunca
+230.0,Mujer,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+231.0,Mujer,Diploma/certificado profesional,En la última semana,Hace mas de una decada,Nunca,Nunca
+232.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+233.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+234.0,Hombre,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+235.0,Mujer,Grado Universitario,En el último mes,En la última semana,Nunca,Nunca
+236.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+237.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+238.0,Mujer,Dejó la escuela a los 16 años,En la última semana,En la última decada,Nunca,Nunca
+239.0,Mujer,Dejó la escuela a los 18 años,En el último mes,Nunca,Nunca,Nunca
+240.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+241.0,Mujer,Maestría finalizada,En el último mes,Nunca,Nunca,Nunca
+242.0,Mujer,Dejó la escuela a los 18 años,En la última semana,En la última semana,Nunca,Nunca
+243.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Nunca,Nunca,Nunca
+244.0,Mujer,Grado Universitario,En la última semana,En la última decada,En la última semana,Nunca
+245.0,Hombre,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+246.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Hace mas de una decada,Nunca,Nunca
+247.0,Mujer,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+248.0,Hombre,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+249.0,Mujer,Doctorado finalizado,En la última semana,Nunca,Nunca,Nunca
+250.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+251.0,Hombre,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+252.0,Mujer,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+253.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+254.0,Mujer,Doctorado finalizado,Ayer,En la última semana,Nunca,Nunca
+255.0,Hombre,Diploma/certificado profesional,En el último mes,En la última decada,Nunca,Nunca
+256.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+257.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última semana,Nunca,Nunca
+258.0,Hombre,Doctorado finalizado,En el último mes,Hace mas de una decada,Nunca,Nunca
+259.0,Hombre,Doctorado finalizado,En la última semana,Nunca,Nunca,Nunca
+260.0,Hombre,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+261.0,Mujer,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+262.0,Hombre,Grado Universitario,En la última decada,Hace mas de una decada,Nunca,Nunca
+263.0,Hombre,Maestría finalizada,En el último año,Nunca,Nunca,Nunca
+264.0,Mujer,Dejó la escuela antes de los 16 años,En la última semana,Nunca,Nunca,Nunca
+265.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+266.0,Mujer,Grado Universitario,En la última decada,Nunca,Nunca,Nunca
+267.0,Hombre,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+268.0,Hombre,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+269.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+270.0,Mujer,Maestría finalizada,En el último mes,Nunca,Nunca,Nunca
+271.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+272.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+273.0,Hombre,Doctorado finalizado,Ayer,Nunca,Nunca,Nunca
+274.0,Mujer,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+275.0,Hombre,Maestría finalizada,Ayer,En la última decada,Hace mas de una decada,Nunca
+276.0,Mujer,Maestría finalizada,En el último mes,Hace mas de una decada,Nunca,Nunca
+277.0,Hombre,Doctorado finalizado,Ayer,Nunca,Nunca,Nunca
+278.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+279.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+280.0,Hombre,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+281.0,Hombre,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+282.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Nunca,Nunca,Nunca
+283.0,Mujer,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+284.0,Hombre,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+285.0,Hombre,Diploma/certificado profesional,En el último año,En la última semana,Nunca,Nunca
+286.0,Hombre,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+287.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+288.0,Hombre,Maestría finalizada,En el último año,Hace mas de una decada,Nunca,Nunca
+289.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Nunca,Nunca,Nunca
+290.0,Mujer,Maestría finalizada,En el último mes,En la última semana,Nunca,Nunca
+291.0,Mujer,Diploma/certificado profesional,Nunca,Nunca,Nunca,Nunca
+292.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+293.0,Mujer,Diploma/certificado profesional,En el último año,Nunca,Nunca,Nunca
+295.0,Mujer,Diploma/certificado profesional,En el último año,En la última decada,Nunca,Nunca
+296.0,Mujer,Dejó la escuela a los 17 años,En la última semana,Nunca,Nunca,Nunca
+297.0,Hombre,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,En la última semana
+298.0,Mujer,Dejó la escuela a los 16 años,Nunca,Nunca,Nunca,Nunca
+300.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+301.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+302.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,Nunca,Nunca,Nunca
+303.0,Mujer,Doctorado finalizado,Ayer,Nunca,Nunca,Nunca
+304.0,Mujer,Diploma/certificado profesional,Ayer,En la última semana,Nunca,Nunca
+305.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+306.0,Mujer,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+307.0,Hombre,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+308.0,Hombre,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+309.0,Mujer,Dejó la escuela a los 18 años,En la última semana,Nunca,Nunca,Nunca
+310.0,Hombre,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+311.0,Mujer,Grado Universitario,En el último año,Nunca,Nunca,Nunca
+312.0,Mujer,Dejó la escuela a los 16 años,En el último año,Hace mas de una decada,Nunca,Nunca
+313.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+314.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+315.0,Mujer,Dejó la escuela a los 18 años,En la última semana,Nunca,Nunca,Nunca
+316.0,Mujer,Doctorado finalizado,En la última semana,Nunca,Nunca,Nunca
+317.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+318.0,Hombre,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+319.0,Mujer,Diploma/certificado profesional,En la última decada,Nunca,Nunca,Nunca
+320.0,Mujer,Dejó la escuela a los 16 años,En el último mes,Nunca,Nunca,Nunca
+321.0,Mujer,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+322.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Nunca,Nunca,Nunca
+323.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+324.0,Hombre,Dejó la escuela a los 17 años,Ayer,En la última semana,Nunca,Hace mas de una decada
+325.0,Mujer,Doctorado finalizado,En la última semana,Hace mas de una decada,Nunca,Nunca
+326.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+327.0,Hombre,Dejó la escuela a los 18 años,Ayer,En el último mes,Nunca,Nunca
+328.0,Hombre,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+329.0,Mujer,Diploma/certificado profesional,En la última semana,Hace mas de una decada,Nunca,Nunca
+330.0,Hombre,Diploma/certificado profesional,En el último mes,Hace mas de una decada,Nunca,Nunca
+331.0,Mujer,Diploma/certificado profesional,Hace mas de una decada,Nunca,Nunca,Nunca
+332.0,Hombre,Dejó la escuela antes de los 16 años,Ayer,En la última semana,En la última semana,Nunca
+333.0,Mujer,Dejó la escuela a los 18 años,Nunca,Nunca,Nunca,Nunca
+334.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,Nunca,Nunca
+335.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Nunca,Nunca,Nunca
+336.0,Mujer,Dejó la escuela a los 16 años,En el último mes,Nunca,Nunca,Nunca
+337.0,Mujer,Maestría finalizada,Ayer,En la última decada,Nunca,Nunca
+338.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+339.0,Mujer,Diploma/certificado profesional,En la última semana,En la última semana,Hace mas de una decada,Nunca
+340.0,Hombre,Doctorado finalizado,Ayer,Nunca,Nunca,Nunca
+341.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+342.0,Mujer,Maestría finalizada,En la última semana,Ayer,Nunca,Nunca
+343.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+344.0,Mujer,Diploma/certificado profesional,Hace mas de una decada,Nunca,Nunca,Nunca
+345.0,Mujer,Dejó la escuela antes de los 16 años,En la última semana,Ayer,En la última semana,En la última decada
+346.0,Mujer,Maestría finalizada,Hace mas de una decada,Hace mas de una decada,Hace mas de una decada,Hace mas de una decada
+347.0,Mujer,Grado Universitario,En la última decada,En la última semana,Nunca,Nunca
+348.0,Mujer,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+349.0,Hombre,Maestría finalizada,En la última decada,Hace mas de una decada,Nunca,En la última semana
+350.0,Hombre,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+351.0,Hombre,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+352.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última semana,En la última semana,En la última semana
+353.0,Hombre,Diploma/certificado profesional,En la última semana,En el último mes,En la última semana,En la última semana
+354.0,Hombre,Grado Universitario,Hace mas de una decada,Hace mas de una decada,Hace mas de una decada,Hace mas de una decada
+355.0,Hombre,Dejó la escuela a los 16 años,En la última decada,En la última semana,Nunca,Nunca
+356.0,Hombre,Diploma/certificado profesional,En la última decada,Hace mas de una decada,En la última semana,En la última semana
+357.0,Hombre,Dejó la escuela antes de los 16 años,Ayer,En la última decada,En la última decada,En la última semana
+358.0,Hombre,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+359.0,Hombre,Dejó la escuela a los 16 años,En el último año,En la última decada,Nunca,Hace mas de una decada
+360.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última decada,En la última semana,Nunca,Nunca
+361.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,En la última semana,En la última semana
+362.0,Mujer,Grado Universitario,En la última decada,En la última semana,Nunca,Nunca
+363.0,Mujer,Diploma/certificado profesional,En la última semana,En la última decada,En la última semana,En la última semana
+364.0,Hombre,Grado Universitario,En la última decada,En la última semana,En la última semana,En la última semana
+365.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+366.0,Mujer,Doctorado finalizado,En la última semana,Hace mas de una decada,Nunca,Nunca
+367.0,Hombre,Diploma/certificado profesional,En la última semana,Hace mas de una decada,Nunca,Nunca
+368.0,Mujer,Grado Universitario,Nunca,Nunca,Nunca,Nunca
+369.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+370.0,Hombre,Diploma/certificado profesional,Ayer,Ayer,Nunca,Nunca
+371.0,Mujer,Grado Universitario,En el último año,En la última semana,En la última semana,En la última semana
+372.0,Hombre,Dejó la escuela a los 18 años,En la última semana,Ayer,Nunca,Nunca
+373.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+374.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+375.0,Hombre,Grado Universitario,Ayer,En el último mes,Nunca,Nunca
+376.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+377.0,Hombre,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+378.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+379.0,Mujer,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+380.0,Hombre,Maestría finalizada,Nunca,Nunca,Nunca,Nunca
+381.0,Mujer,Diploma/certificado profesional,Ayer,Hace mas de una decada,Nunca,Nunca
+382.0,Hombre,Grado Universitario,En la última decada,En la última semana,En la última semana,Nunca
+383.0,Hombre,Dejó la escuela a los 16 años,En el último mes,Ayer,Nunca,Nunca
+384.0,Mujer,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+385.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+386.0,Mujer,Grado Universitario,Hace mas de una decada,Nunca,Nunca,Nunca
+387.0,Hombre,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+388.0,Hombre,Dejó la escuela a los 18 años,En el último mes,Nunca,Nunca,Nunca
+389.0,Hombre,Grado Universitario,Nunca,Nunca,Nunca,Nunca
+390.0,Hombre,Diploma/certificado profesional,En el último año,Hace mas de una decada,Nunca,Nunca
+391.0,Hombre,Doctorado finalizado,En la última semana,Hace mas de una decada,Nunca,Nunca
+392.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última decada,Hace mas de una decada,Nunca,Nunca
+393.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+394.0,Mujer,Dejó la escuela a los 17 años,En la última semana,Nunca,Nunca,Nunca
+395.0,Mujer,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+396.0,Hombre,Diploma/certificado profesional,Ayer,Hace mas de una decada,Hace mas de una decada,Nunca
+397.0,Hombre,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+398.0,Mujer,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+399.0,Hombre,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+400.0,Mujer,Maestría finalizada,Ayer,En el último año,Nunca,Nunca
+401.0,Hombre,Maestría finalizada,Hace mas de una decada,Hace mas de una decada,Nunca,Nunca
+402.0,Mujer,Dejó la escuela a los 18 años,En el último mes,Hace mas de una decada,Nunca,Nunca
+403.0,Hombre,Dejó la escuela a los 16 años,En la última semana,Ayer,Nunca,Nunca
+404.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+405.0,Hombre,Grado Universitario,En la última semana,En el último año,Nunca,Nunca
+406.0,Hombre,Dejó la escuela a los 17 años,En el último año,Ayer,Nunca,Nunca
+407.0,Mujer,Dejó la escuela antes de los 16 años,En la última semana,En el último año,Nunca,Nunca
+408.0,Mujer,Grado Universitario,En el último año,Ayer,Nunca,Nunca
+409.0,Hombre,Dejó la escuela a los 17 años,Ayer,Ayer,Hace mas de una decada,Nunca
+410.0,Hombre,Grado Universitario,En el último año,Ayer,Nunca,Nunca
+411.0,Mujer,Diploma/certificado profesional,Hace mas de una decada,Ayer,Nunca,Nunca
+412.0,Hombre,Dejó la escuela a los 18 años,En la última semana,Ayer,Nunca,Hace mas de una decada
+413.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,Hace mas de una decada,Hace mas de una decada,Nunca
+414.0,Mujer,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+415.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+416.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,Hace mas de una decada,Nunca,Nunca
+417.0,Hombre,Dejó la escuela a los 18 años,Ayer,Ayer,Nunca,Nunca
+418.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+419.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,En la última semana,Nunca
+420.0,Mujer,Doctorado finalizado,Ayer,En el último mes,Nunca,Nunca
+421.0,Hombre,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+422.0,Hombre,Dejó la escuela a los 18 años,En el último mes,Ayer,Nunca,Nunca
+423.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,Nunca,Nunca
+424.0,Hombre,Diploma/certificado profesional,En el último mes,Ayer,Nunca,Nunca
+425.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+426.0,Mujer,Doctorado finalizado,En el último año,Ayer,Hace mas de una decada,Hace mas de una decada
+427.0,Hombre,Grado Universitario,Ayer,En el último año,Nunca,Nunca
+428.0,Hombre,Dejó la escuela a los 16 años,En la última semana,Hace mas de una decada,Nunca,Nunca
+429.0,Hombre,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+430.0,Mujer,Dejó la escuela a los 18 años,En la última semana,En la última semana,Nunca,Nunca
+431.0,Hombre,Dejó la escuela antes de los 16 años,En la última semana,Hace mas de una decada,Nunca,Nunca
+432.0,Mujer,Dejó la escuela a los 18 años,En la última semana,En la última semana,Nunca,Nunca
+433.0,Hombre,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+434.0,Mujer,Dejó la escuela a los 16 años,Ayer,En la última semana,Nunca,Nunca
+435.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+436.0,Mujer,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+437.0,Hombre,Educación Técnica o de Universidad(No finalizada),Hace mas de una decada,Ayer,Nunca,Nunca
+438.0,Hombre,Dejó la escuela a los 16 años,Ayer,Ayer,En el último año,En la última semana
+439.0,Mujer,Grado Universitario,En la última semana,En la última semana,En la última semana,En la última semana
+440.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,Nunca,Nunca
+441.0,Mujer,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+442.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,En la última semana,Nunca,Nunca
+443.0,Mujer,Maestría finalizada,En la última semana,Ayer,Nunca,Nunca
+444.0,Hombre,Dejó la escuela a los 16 años,En la última semana,Hace mas de una decada,Nunca,Nunca
+445.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+446.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+447.0,Mujer,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+448.0,Hombre,Maestría finalizada,Ayer,En la última semana,Nunca,Nunca
+449.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+450.0,Hombre,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+451.0,Mujer,Grado Universitario,En la última semana,En el último año,En la última semana,Nunca
+452.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+453.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+454.0,Hombre,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+455.0,Hombre,Doctorado finalizado,Ayer,Ayer,En la última semana,En el último año
+456.0,Mujer,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+457.0,Hombre,Grado Universitario,Ayer,En el último mes,Hace mas de una decada,En la última decada
+458.0,Mujer,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+459.0,Mujer,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+460.0,Hombre,Maestría finalizada,En el último mes,En el último mes,Nunca,Nunca
+461.0,Mujer,Grado Universitario,Ayer,En el último año,Nunca,En la última decada
+462.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,Nunca,Nunca
+463.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En la última semana,Nunca,Nunca
+464.0,Hombre,Dejó la escuela a los 18 años,Ayer,Hace mas de una decada,Nunca,Nunca
+465.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+466.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+467.0,Mujer,Grado Universitario,Nunca,Ayer,Nunca,Nunca
+468.0,Hombre,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+469.0,Hombre,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+470.0,Hombre,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+471.0,Mujer,Dejó la escuela a los 16 años,En el último año,Hace mas de una decada,Hace mas de una decada,En la última semana
+472.0,Mujer,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+473.0,Hombre,Maestría finalizada,En la última semana,Ayer,Nunca,Nunca
+474.0,Mujer,Dejó la escuela antes de los 16 años,En la última semana,En la última decada,En la última semana,En la última semana
+475.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última decada,Ayer,Nunca,Nunca
+476.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+477.0,Mujer,Grado Universitario,En el último año,Ayer,Nunca,Nunca
+478.0,Hombre,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+479.0,Mujer,Diploma/certificado profesional,Ayer,En la última semana,Nunca,Nunca
+480.0,Mujer,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+481.0,Mujer,Maestría finalizada,Ayer,En la última semana,Nunca,Nunca
+482.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En la última decada,Nunca,En la última decada
+483.0,Mujer,Grado Universitario,Ayer,En la última decada,Nunca,Hace mas de una decada
+484.0,Hombre,Educación Técnica o de Universidad(No finalizada),Nunca,Ayer,Nunca,Hace mas de una decada
+485.0,Mujer,Grado Universitario,En la última decada,Ayer,Nunca,Nunca
+486.0,Mujer,Dejó la escuela a los 16 años,En el último mes,Ayer,Nunca,Nunca
+487.0,Mujer,Dejó la escuela a los 16 años,Ayer,Ayer,Nunca,Nunca
+488.0,Hombre,Dejó la escuela a los 18 años,En la última semana,En el último año,Nunca,Nunca
+489.0,Mujer,Dejó la escuela a los 18 años,En el último mes,Ayer,Hace mas de una decada,Hace mas de una decada
+490.0,Hombre,Dejó la escuela a los 16 años,Ayer,Ayer,Nunca,Nunca
+491.0,Hombre,Dejó la escuela antes de los 16 años,En el último año,Ayer,Nunca,Nunca
+492.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+493.0,Mujer,Diploma/certificado profesional,En la última semana,Ayer,Hace mas de una decada,Hace mas de una decada
+494.0,Hombre,Dejó la escuela a los 18 años,Ayer,Ayer,Nunca,Nunca
+495.0,Hombre,Diploma/certificado profesional,En la última semana,Ayer,Nunca,Nunca
+496.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En la última decada,Nunca,Nunca
+497.0,Hombre,Diploma/certificado profesional,En el último mes,Ayer,Nunca,Nunca
+498.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En la última semana,Nunca,Nunca
+499.0,Hombre,Maestría finalizada,Ayer,En la última semana,Nunca,Nunca
+500.0,Hombre,Dejó la escuela a los 16 años,En el último mes,Ayer,Nunca,Nunca
+501.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,En la última semana,Hace mas de una decada
+502.0,Mujer,Diploma/certificado profesional,En el último año,Ayer,Nunca,Nunca
+503.0,Mujer,Diploma/certificado profesional,En el último año,En la última semana,Nunca,Nunca
+504.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+505.0,Mujer,Diploma/certificado profesional,Hace mas de una decada,En el último año,Hace mas de una decada,Nunca
+506.0,Hombre,Dejó la escuela a los 16 años,Hace mas de una decada,Ayer,Nunca,Nunca
+507.0,Hombre,Diploma/certificado profesional,En el último año,En la última semana,Nunca,Nunca
+508.0,Hombre,Grado Universitario,En el último mes,En la última semana,Nunca,Nunca
+509.0,Hombre,Grado Universitario,En el último año,Ayer,Nunca,Nunca
+510.0,Hombre,Dejó la escuela a los 16 años,En la última semana,En la última semana,Nunca,Nunca
+511.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+512.0,Hombre,Grado Universitario,En la última semana,En el último año,Hace mas de una decada,Nunca
+513.0,Mujer,Maestría finalizada,En la última semana,En el último año,Hace mas de una decada,Hace mas de una decada
+514.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+515.0,Hombre,Dejó la escuela a los 16 años,En el último año,En el último año,En la última decada,Hace mas de una decada
+516.0,Hombre,Dejó la escuela a los 16 años,Ayer,Nunca,Nunca,Nunca
+517.0,Mujer,Dejó la escuela a los 17 años,En la última semana,Ayer,Nunca,Nunca
+518.0,Mujer,Dejó la escuela a los 16 años,Ayer,En la última semana,En la última semana,En la última semana
+519.0,Mujer,Maestría finalizada,En la última decada,En la última semana,Nunca,Nunca
+520.0,Hombre,Diploma/certificado profesional,En la última decada,Ayer,Nunca,En la última decada
+521.0,Hombre,Maestría finalizada,En la última semana,En la última decada,En la última semana,En la última semana
+522.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+523.0,Mujer,Dejó la escuela a los 16 años,En el último año,En el último mes,Nunca,Nunca
+524.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+525.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+526.0,Mujer,Dejó la escuela antes de los 16 años,En la última decada,En la última semana,En la última semana,En la última semana
+527.0,Mujer,Grado Universitario,En la última semana,Ayer,Hace mas de una decada,Nunca
+528.0,Hombre,Dejó la escuela a los 18 años,Ayer,Nunca,Nunca,Nunca
+529.0,Hombre,Diploma/certificado profesional,En el último mes,En el último año,Nunca,Nunca
+530.0,Hombre,Doctorado finalizado,Ayer,En la última semana,Nunca,Nunca
+531.0,Mujer,Diploma/certificado profesional,En la última semana,En la última decada,Nunca,Nunca
+532.0,Hombre,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+533.0,Hombre,Grado Universitario,En la última semana,Ayer,En la última decada,Hace mas de una decada
+534.0,Mujer,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+535.0,Hombre,Maestría finalizada,En el último mes,Nunca,Nunca,Nunca
+536.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+537.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,En la última decada
+538.0,Mujer,Grado Universitario,Ayer,En el último mes,Nunca,Nunca
+539.0,Mujer,Educación Técnica o de Universidad(No finalizada),Nunca,Nunca,Nunca,Nunca
+540.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+541.0,Hombre,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+542.0,Mujer,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+543.0,Mujer,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+544.0,Hombre,Dejó la escuela a los 17 años,Ayer,En el último año,Nunca,Hace mas de una decada
+545.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+546.0,Mujer,Dejó la escuela a los 16 años,En la última semana,En el último mes,Nunca,Nunca
+547.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+548.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última decada,En la última semana,En la última semana,Nunca
+549.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+550.0,Hombre,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+551.0,Mujer,Maestría finalizada,En el último mes,En la última semana,Nunca,Nunca
+552.0,Mujer,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+553.0,Mujer,Maestría finalizada,En el último mes,En el último mes,Nunca,Nunca
+554.0,Mujer,Maestría finalizada,En la última decada,Nunca,Nunca,Nunca
+555.0,Mujer,Maestría finalizada,Ayer,En la última semana,Nunca,Nunca
+556.0,Mujer,Doctorado finalizado,En el último mes,Nunca,Nunca,Nunca
+557.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+558.0,Mujer,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+559.0,Mujer,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+560.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+561.0,Mujer,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+562.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+563.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+564.0,Mujer,Maestría finalizada,Ayer,En la última semana,Nunca,Nunca
+565.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+566.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última decada,En la última decada,Nunca,Nunca
+567.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+568.0,Mujer,Grado Universitario,En la última semana,En el último mes,Nunca,Nunca
+569.0,Hombre,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+570.0,Hombre,Maestría finalizada,Hace mas de una decada,Hace mas de una decada,Nunca,Nunca
+571.0,Mujer,Doctorado finalizado,Ayer,Hace mas de una decada,Nunca,Nunca
+572.0,Mujer,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+573.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+574.0,Hombre,Diploma/certificado profesional,Ayer,En la última decada,Nunca,Nunca
+575.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+576.0,Mujer,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+577.0,Hombre,Dejó la escuela a los 16 años,En la última semana,Nunca,Nunca,Nunca
+578.0,Mujer,Maestría finalizada,En el último mes,Nunca,Nunca,Nunca
+579.0,Mujer,Grado Universitario,En el último mes,En la última semana,Nunca,Nunca
+580.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+581.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+582.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En la última semana,Nunca,Nunca
+583.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,Nunca,Nunca
+584.0,Mujer,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+585.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+586.0,Hombre,Grado Universitario,En la última decada,Hace mas de una decada,Nunca,Nunca
+587.0,Hombre,Diploma/certificado profesional,En la última decada,En el último mes,Nunca,Nunca
+588.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+589.0,Mujer,Dejó la escuela a los 16 años,En la última semana,Ayer,Nunca,Nunca
+590.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última decada,Ayer,Nunca,Nunca
+591.0,Hombre,Dejó la escuela antes de los 16 años,En el último año,Ayer,Nunca,Hace mas de una decada
+592.0,Mujer,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+593.0,Mujer,Diploma/certificado profesional,En la última semana,Ayer,En la última decada,Nunca
+594.0,Hombre,Diploma/certificado profesional,En la última semana,En el último año,Nunca,Nunca
+595.0,Hombre,Dejó la escuela a los 16 años,En la última semana,En el último año,Nunca,Nunca
+596.0,Hombre,Diploma/certificado profesional,Ayer,Hace mas de una decada,Hace mas de una decada,Nunca
+597.0,Hombre,Dejó la escuela a los 16 años,En la última semana,En el último año,Nunca,Nunca
+598.0,Mujer,Diploma/certificado profesional,Hace mas de una decada,En el último mes,Hace mas de una decada,Nunca
+599.0,Mujer,Diploma/certificado profesional,En la última semana,Ayer,Nunca,Nunca
+600.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+601.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+602.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+603.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+604.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+605.0,Hombre,Grado Universitario,En la última semana,En el último año,Nunca,Nunca
+606.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+607.0,Mujer,Maestría finalizada,En la última semana,Ayer,En la última semana,Hace mas de una decada
+608.0,Hombre,Grado Universitario,En la última semana,En el último mes,Nunca,Nunca
+609.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última decada,En la última decada,Hace mas de una decada,Hace mas de una decada
+610.0,Hombre,Grado Universitario,Ayer,Ayer,En la última semana,En la última semana
+611.0,Mujer,Diploma/certificado profesional,En el último mes,En el último año,En la última decada,Nunca
+612.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+613.0,Hombre,Grado Universitario,En la última semana,En el último año,En la última semana,Nunca
+614.0,Hombre,Grado Universitario,Hace mas de una decada,Ayer,Nunca,Nunca
+615.0,Mujer,Maestría finalizada,Ayer,Ayer,Nunca,Nunca
+616.0,Mujer,Dejó la escuela antes de los 16 años,En el último año,En la última decada,En la última decada,En la última decada
+617.0,Mujer,Maestría finalizada,Ayer,En la última semana,Nunca,Nunca
+618.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última decada,Ayer,Hace mas de una decada,Nunca
+619.0,Hombre,Diploma/certificado profesional,En el último año,Ayer,Nunca,Hace mas de una decada
+620.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+621.0,Hombre,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+622.0,Hombre,Dejó la escuela a los 18 años,En la última semana,En el último año,Nunca,Nunca
+623.0,Hombre,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+624.0,Mujer,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+625.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+626.0,Mujer,Doctorado finalizado,Ayer,Hace mas de una decada,Nunca,Nunca
+627.0,Mujer,Diploma/certificado profesional,Ayer,En la última semana,Nunca,Nunca
+628.0,Hombre,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+629.0,Hombre,Doctorado finalizado,En la última semana,En el último año,Nunca,Nunca
+630.0,Mujer,Doctorado finalizado,En la última semana,En la última decada,Nunca,Nunca
+631.0,Mujer,Doctorado finalizado,En la última semana,Nunca,Nunca,Nunca
+632.0,Mujer,Doctorado finalizado,Ayer,En la última semana,Nunca,Nunca
+633.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+634.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+635.0,Mujer,Maestría finalizada,En la última semana,En la última decada,Nunca,Nunca
+636.0,Mujer,Doctorado finalizado,Ayer,En el último año,Nunca,Hace mas de una decada
+637.0,Hombre,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+638.0,Mujer,Grado Universitario,En el último mes,Hace mas de una decada,Nunca,Nunca
+639.0,Mujer,Diploma/certificado profesional,En el último mes,Nunca,Nunca,Nunca
+640.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+641.0,Hombre,Dejó la escuela a los 16 años,En la última semana,Ayer,Nunca,Nunca
+642.0,Hombre,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+643.0,Hombre,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+644.0,Mujer,Maestría finalizada,En la última semana,En el último mes,Nunca,Nunca
+645.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+646.0,Hombre,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+647.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+648.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,Nunca,Nunca
+649.0,Mujer,Maestría finalizada,Ayer,Ayer,En el último mes,En la última decada
+650.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+651.0,Mujer,Maestría finalizada,En la última semana,En el último año,Hace mas de una decada,Nunca
+652.0,Hombre,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+653.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+654.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En la última decada,Nunca,Nunca
+655.0,Mujer,Dejó la escuela a los 16 años,En la última semana,Hace mas de una decada,Nunca,Nunca
+656.0,Hombre,Maestría finalizada,En la última semana,En el último mes,En la última decada,Nunca
+657.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,En la última decada,Nunca
+658.0,Hombre,Diploma/certificado profesional,En la última semana,En el último mes,Nunca,Hace mas de una decada
+659.0,Hombre,Maestría finalizada,En la última semana,En la última decada,Nunca,Nunca
+660.0,Hombre,Doctorado finalizado,En la última semana,Ayer,En la última semana,Nunca
+661.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+662.0,Mujer,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+663.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+664.0,Mujer,Doctorado finalizado,Ayer,En la última decada,Nunca,Nunca
+665.0,Hombre,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+666.0,Mujer,Doctorado finalizado,Ayer,En la última semana,Hace mas de una decada,Nunca
+667.0,Hombre,Dejó la escuela a los 18 años,En el último año,Ayer,Nunca,Nunca
+668.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,En el último mes,En el último año
+669.0,Hombre,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+670.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+671.0,Hombre,Diploma/certificado profesional,En la última semana,En el último año,Nunca,Nunca
+672.0,Hombre,Diploma/certificado profesional,En la última decada,Ayer,Nunca,Nunca
+673.0,Hombre,Grado Universitario,En la última decada,Ayer,Nunca,Nunca
+674.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,Nunca,Nunca
+675.0,Mujer,Maestría finalizada,En el último año,Nunca,Nunca,Nunca
+676.0,Hombre,Diploma/certificado profesional,En el último año,Ayer,Nunca,Nunca
+677.0,Hombre,Diploma/certificado profesional,En el último año,Ayer,Nunca,Nunca
+678.0,Hombre,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+679.0,Hombre,Educación Técnica o de Universidad(No finalizada),Nunca,Nunca,Nunca,Nunca
+680.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+681.0,Hombre,Doctorado finalizado,Ayer,Hace mas de una decada,En la última decada,En la última decada
+682.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En la última decada,Nunca,Nunca
+683.0,Hombre,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+684.0,Mujer,Grado Universitario,En el último año,En la última decada,Hace mas de una decada,Nunca
+685.0,Mujer,Diploma/certificado profesional,En el último mes,En el último mes,Nunca,Nunca
+686.0,Hombre,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+687.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,Nunca,Nunca
+688.0,Mujer,Dejó la escuela antes de los 16 años,En el último mes,En el último año,Nunca,Nunca
+689.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última decada,Ayer,Nunca,Nunca
+690.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+691.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Nunca,Nunca,Hace mas de una decada
+692.0,Mujer,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+693.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+694.0,Hombre,Maestría finalizada,Ayer,En la última semana,Nunca,Nunca
+695.0,Hombre,Diploma/certificado profesional,En la última semana,Ayer,Nunca,Nunca
+696.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+697.0,Hombre,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+698.0,Mujer,Grado Universitario,En el último mes,Ayer,Nunca,Nunca
+699.0,Hombre,Grado Universitario,Ayer,En el último año,Nunca,Hace mas de una decada
+700.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+701.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Hace mas de una decada,Hace mas de una decada
+702.0,Hombre,Dejó la escuela antes de los 16 años,Hace mas de una decada,Ayer,Nunca,Nunca
+703.0,Mujer,Grado Universitario,En el último año,En la última decada,Nunca,Nunca
+704.0,Hombre,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+705.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Hace mas de una decada,Hace mas de una decada
+706.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+707.0,Mujer,Grado Universitario,En el último mes,En la última semana,Nunca,Nunca
+708.0,Hombre,Grado Universitario,En la última semana,En el último año,Nunca,Nunca
+709.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+710.0,Hombre,Diploma/certificado profesional,En el último año,En el último mes,Nunca,Nunca
+711.0,Hombre,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+712.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+713.0,Mujer,Maestría finalizada,En el último mes,En la última decada,Nunca,Nunca
+714.0,Hombre,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+715.0,Hombre,Diploma/certificado profesional,En la última semana,En el último año,Nunca,Nunca
+716.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,En la última decada,En la última semana
+717.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+718.0,Hombre,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+719.0,Hombre,Dejó la escuela a los 16 años,En la última semana,Ayer,Nunca,Nunca
+720.0,Hombre,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+721.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,En la última semana
+722.0,Mujer,Diploma/certificado profesional,En el último mes,Ayer,Nunca,Nunca
+723.0,Hombre,Diploma/certificado profesional,Hace mas de una decada,Ayer,Nunca,Hace mas de una decada
+724.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+725.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+726.0,Mujer,Maestría finalizada,En la última semana,En el último año,Nunca,Nunca
+727.0,Hombre,Diploma/certificado profesional,Ayer,En el último mes,Nunca,Nunca
+728.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+729.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última decada,Nunca,Nunca
+730.0,Mujer,Dejó la escuela a los 16 años,Ayer,Ayer,En la última semana,En la última semana
+731.0,Mujer,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+732.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,Nunca,Nunca
+733.0,Mujer,Grado Universitario,Ayer,En el último año,Nunca,Nunca
+734.0,Hombre,Dejó la escuela a los 16 años,En la última semana,Ayer,Nunca,Nunca
+735.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+736.0,Mujer,Grado Universitario,En el último mes,En el último año,Nunca,En la última semana
+737.0,Hombre,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+738.0,Hombre,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+739.0,Mujer,Dejó la escuela a los 18 años,En el último mes,Ayer,Nunca,Nunca
+740.0,Hombre,Maestría finalizada,Ayer,Ayer,Nunca,Nunca
+741.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+743.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+744.0,Mujer,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+745.0,Hombre,Dejó la escuela a los 16 años,Hace mas de una decada,Ayer,Nunca,Nunca
+746.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Nunca,Nunca,Nunca
+747.0,Mujer,Dejó la escuela a los 16 años,Ayer,Nunca,Nunca,Nunca
+748.0,Mujer,Maestría finalizada,En el último mes,Ayer,Nunca,Nunca
+749.0,Mujer,Dejó la escuela a los 16 años,En la última decada,Ayer,En la última semana,Nunca
+750.0,Mujer,Doctorado finalizado,En la última semana,Nunca,Nunca,Nunca
+751.0,Hombre,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+752.0,Mujer,Diploma/certificado profesional,Ayer,En la última decada,Nunca,Nunca
+753.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,Nunca,Nunca
+754.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+755.0,Hombre,Doctorado finalizado,En el último mes,En el último año,Nunca,Nunca
+756.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,Nunca,En la última decada
+757.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+758.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+759.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,En la última decada,Nunca
+760.0,Hombre,Doctorado finalizado,Ayer,En la última decada,En la última semana,Nunca
+761.0,Hombre,Grado Universitario,Ayer,En la última decada,Nunca,En la última decada
+762.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+763.0,Mujer,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+764.0,Mujer,Grado Universitario,En la última semana,En la última decada,En la última decada,Nunca
+765.0,Hombre,Dejó la escuela a los 16 años,En la última semana,En el último año,Nunca,Nunca
+766.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+767.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Hace mas de una decada,En la última decada,En la última semana
+768.0,Hombre,Maestría finalizada,Ayer,Ayer,Nunca,En la última semana
+769.0,Mujer,Diploma/certificado profesional,En el último mes,Ayer,Nunca,Nunca
+770.0,Hombre,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+771.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En la última decada,Nunca,Nunca
+772.0,Mujer,Maestría finalizada,Nunca,Nunca,Nunca,Nunca
+773.0,Hombre,Grado Universitario,Ayer,Ayer,Nunca,Hace mas de una decada
+774.0,Mujer,Diploma/certificado profesional,Hace mas de una decada,Ayer,Hace mas de una decada,Hace mas de una decada
+775.0,Hombre,Dejó la escuela a los 18 años,En el último mes,En el último mes,Nunca,En la última semana
+776.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+777.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En el último año,En la última semana,En la última decada
+778.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,En la última decada,Nunca
+779.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+780.0,Hombre,Dejó la escuela a los 18 años,En la última semana,Ayer,Nunca,Hace mas de una decada
+781.0,Mujer,Diploma/certificado profesional,En el último mes,En la última decada,Nunca,En la última semana
+782.0,Hombre,Diploma/certificado profesional,Ayer,En el último año,Nunca,Nunca
+783.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En el último mes,En la última semana,En la última semana
+784.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+785.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En la última decada,Nunca,Nunca
+786.0,Hombre,Maestría finalizada,En el último mes,En el último año,Nunca,Nunca
+787.0,Hombre,Diploma/certificado profesional,En el último año,Ayer,Nunca,Nunca
+788.0,Hombre,Diploma/certificado profesional,Ayer,En la última semana,En la última semana,Hace mas de una decada
+789.0,Hombre,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+790.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En el último año,Nunca,Nunca
+791.0,Hombre,Grado Universitario,En la última semana,En el último año,Nunca,Nunca
+792.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+793.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,En la última semana,En la última decada
+794.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Nunca,Nunca,Nunca
+795.0,Hombre,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+796.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+797.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,En la última decada,En el último año
+798.0,Mujer,Grado Universitario,En la última semana,En el último año,Nunca,Nunca
+799.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En el último mes,Nunca,Nunca
+800.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Hace mas de una decada,Hace mas de una decada
+801.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,Nunca,Nunca
+802.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+803.0,Hombre,Dejó la escuela a los 18 años,En la última semana,En el último año,Nunca,Nunca
+804.0,Mujer,Grado Universitario,Ayer,En el último mes,Nunca,En la última decada
+805.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,Hace mas de una decada,Nunca
+806.0,Mujer,Grado Universitario,Ayer,En la última semana,En el último mes,Ayer
+807.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última decada,En la última decada,En la última semana,En la última decada
+808.0,Hombre,Dejó la escuela a los 17 años,En la última semana,Ayer,Nunca,Nunca
+809.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En la última decada,Nunca,Nunca
+810.0,Hombre,Grado Universitario,En el último año,En la última decada,Nunca,En la última decada
+811.0,Hombre,Diploma/certificado profesional,En la última semana,En el último mes,Nunca,Nunca
+812.0,Hombre,Dejó la escuela a los 18 años,En el último año,En el último mes,Nunca,Nunca
+813.0,Mujer,Grado Universitario,Ayer,En la última decada,En la última semana,Hace mas de una decada
+814.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,Nunca,En la última decada
+815.0,Hombre,Grado Universitario,En el último año,En la última semana,En la última semana,En el último año
+816.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+817.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,En el último año,En la última decada
+818.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,En el último año,Nunca,En la última decada
+819.0,Hombre,Doctorado finalizado,En el último mes,En el último año,Hace mas de una decada,En la última decada
+820.0,Mujer,Maestría finalizada,En la última semana,Ayer,Nunca,Nunca
+821.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En el último mes,Nunca,Nunca
+822.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+823.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Nunca,Nunca,Nunca
+824.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+825.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+826.0,Hombre,Grado Universitario,En la última semana,En el último año,Nunca,Nunca
+827.0,Hombre,Grado Universitario,Ayer,Ayer,En el último año,Ayer
+828.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,En la última decada,En el último mes
+829.0,Hombre,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+830.0,Mujer,Doctorado finalizado,En la última semana,En la última decada,Nunca,Nunca
+831.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,Nunca,Nunca
+832.0,Hombre,Diploma/certificado profesional,Ayer,En el último año,Nunca,Nunca
+833.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última decada,Nunca,Nunca
+834.0,Mujer,Maestría finalizada,Ayer,Ayer,Nunca,Nunca
+835.0,Mujer,Doctorado finalizado,Ayer,Hace mas de una decada,Nunca,Nunca
+836.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+837.0,Hombre,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+838.0,Hombre,Grado Universitario,En el último mes,En el último mes,Nunca,Nunca
+839.0,Hombre,Maestría finalizada,En el último año,En la última semana,Nunca,Nunca
+840.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,Nunca,Nunca
+841.0,Hombre,Dejó la escuela a los 18 años,Ayer,En la última decada,Nunca,Nunca
+842.0,Hombre,Grado Universitario,En la última semana,En el último año,En la última semana,En la última decada
+843.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+844.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+845.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En la última decada,Nunca,Hace mas de una decada
+846.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+847.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En la última semana,Nunca,Nunca
+848.0,Mujer,Diploma/certificado profesional,En la última decada,En la última semana,Nunca,Nunca
+849.0,Hombre,Grado Universitario,En el último año,En la última decada,En la última semana,En el último mes
+850.0,Hombre,Dejó la escuela a los 18 años,Ayer,Ayer,En la última decada,Nunca
+851.0,Hombre,Maestría finalizada,En el último mes,Ayer,Nunca,Nunca
+852.0,Hombre,Maestría finalizada,En la última semana,En el último año,Nunca,Nunca
+853.0,Hombre,Educación Técnica o de Universidad(No finalizada),Nunca,Ayer,Nunca,Nunca
+854.0,Hombre,Grado Universitario,En la última decada,En la última semana,En la última semana,En la última semana
+855.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,En la última semana
+856.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+857.0,Hombre,Dejó la escuela a los 16 años,En la última semana,En el último año,En el último mes,En el último año
+858.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última decada,Ayer,Nunca,Nunca
+859.0,Hombre,Diploma/certificado profesional,En la última semana,En el último año,Nunca,En la última decada
+860.0,Hombre,Dejó la escuela a los 17 años,En el último mes,En el último mes,En el último año,Ayer
+861.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+862.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,En la última semana,Nunca,En la última semana
+863.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+864.0,Hombre,Grado Universitario,Ayer,Ayer,En la última semana,Nunca
+865.0,Hombre,Educación Técnica o de Universidad(No finalizada),Nunca,Ayer,Nunca,Nunca
+866.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+867.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+868.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+869.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+870.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+871.0,Hombre,Diploma/certificado profesional,En el último año,En la última decada,Nunca,Hace mas de una decada
+872.0,Hombre,Grado Universitario,Ayer,En la última semana,Hace mas de una decada,En la última semana
+873.0,Hombre,Maestría finalizada,En la última semana,En el último año,Nunca,Nunca
+874.0,Mujer,Maestría finalizada,En la última semana,En el último año,Nunca,Nunca
+875.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última semana,Nunca,Nunca
+876.0,Mujer,Maestría finalizada,En la última semana,En la última decada,Nunca,Nunca
+877.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+878.0,Hombre,Diploma/certificado profesional,En el último año,En el último mes,En la última semana,En el último mes
+879.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+880.0,Mujer,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+881.0,Hombre,Maestría finalizada,Ayer,En la última decada,Nunca,Nunca
+882.0,Mujer,Dejó la escuela antes de los 16 años,En la última semana,Ayer,Nunca,En el último mes
+883.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,En el último año,En la última decada
+884.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última decada,En la última semana,En la última semana,En la última semana
+885.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,En la última semana
+886.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+887.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,Nunca,Nunca
+888.0,Hombre,Grado Universitario,En el último mes,En el último año,Nunca,Nunca
+889.0,Hombre,Grado Universitario,Ayer,En el último año,Nunca,Nunca
+890.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+891.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+892.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,Nunca,Nunca
+893.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,En la última semana,En la última decada
+894.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En la última semana,Nunca,Nunca
+895.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,En la última semana,En la última semana
+896.0,Mujer,Dejó la escuela a los 17 años,Ayer,En la última decada,Nunca,Hace mas de una decada
+897.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+898.0,Mujer,Diploma/certificado profesional,En el último mes,Ayer,Nunca,Nunca
+899.0,Hombre,Maestría finalizada,En la última semana,Ayer,En la última semana,Nunca
+900.0,Hombre,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+901.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En el último mes,Nunca,Nunca
+902.0,Hombre,Grado Universitario,En la última semana,En el último mes,En el último año,En el último mes
+903.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+904.0,Mujer,Maestría finalizada,Ayer,En el último mes,En la última semana,Ayer
+905.0,Hombre,Dejó la escuela a los 18 años,En el último mes,Ayer,Nunca,En la última decada
+906.0,Mujer,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+907.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última decada,Ayer,Nunca,Ayer
+908.0,Hombre,Diploma/certificado profesional,En la última semana,Ayer,Nunca,Nunca
+909.0,Hombre,Grado Universitario,En el último mes,Hace mas de una decada,Nunca,Nunca
+910.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+911.0,Hombre,Grado Universitario,En la última semana,En el último año,Nunca,En la última decada
+912.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+913.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,Nunca,En el último año
+914.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,Nunca,Nunca
+915.0,Hombre,Grado Universitario,En el último año,Nunca,Nunca,Nunca
+916.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+917.0,Mujer,Dejó la escuela a los 17 años,En la última semana,Ayer,Hace mas de una decada,Nunca
+918.0,Hombre,Dejó la escuela a los 18 años,Ayer,En el último mes,Nunca,En la última decada
+919.0,Hombre,Dejó la escuela a los 16 años,En el último mes,En la última decada,En la última decada,En el último mes
+920.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,En el último mes,Nunca,Nunca
+921.0,Hombre,Dejó la escuela a los 18 años,Ayer,Ayer,Nunca,En el último año
+922.0,Hombre,Maestría finalizada,En la última semana,En la última semana,Nunca,Hace mas de una decada
+923.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+924.0,Hombre,Dejó la escuela antes de los 16 años,En el último año,Ayer,En la última semana,Nunca
+925.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En el último mes,Nunca,Nunca
+926.0,Hombre,Dejó la escuela a los 18 años,En el último año,En la última decada,En la última decada,En la última semana
+927.0,Hombre,Dejó la escuela a los 16 años,En el último año,Ayer,En la última semana,En la última decada
+928.0,Hombre,Diploma/certificado profesional,En la última semana,Ayer,Nunca,Nunca
+929.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+930.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+931.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+932.0,Hombre,Dejó la escuela a los 16 años,En el último año,Ayer,Nunca,Nunca
+933.0,Mujer,Grado Universitario,En el último mes,En la última semana,Nunca,Hace mas de una decada
+934.0,Mujer,Dejó la escuela a los 17 años,En el último año,En la última decada,En la última semana,En el último mes
+935.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+936.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,En la última decada,En el último mes
+937.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,Nunca,Nunca
+938.0,Hombre,Diploma/certificado profesional,En el último año,En el último año,Nunca,Nunca
+939.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+940.0,Mujer,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+941.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último mes,Nunca,Nunca
+942.0,Mujer,Dejó la escuela a los 18 años,En la última semana,En el último año,Nunca,Nunca
+943.0,Hombre,Diploma/certificado profesional,En el último mes,Ayer,En la última semana,Nunca
+944.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,En el último mes
+945.0,Mujer,Maestría finalizada,En el último año,En la última decada,En la última semana,En la última decada
+946.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+947.0,Hombre,Dejó la escuela a los 18 años,En el último mes,Ayer,Nunca,Nunca
+948.0,Hombre,Diploma/certificado profesional,Ayer,En la última decada,Nunca,Nunca
+949.0,Mujer,Dejó la escuela a los 18 años,En la última decada,En la última semana,Nunca,Nunca
+950.0,Hombre,Diploma/certificado profesional,En la última semana,En la última decada,Nunca,Nunca
+951.0,Mujer,Grado Universitario,Ayer,En el último mes,Nunca,En la última semana
+952.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+953.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+954.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+955.0,Hombre,Educación Técnica o de Universidad(No finalizada),Nunca,En la última decada,Nunca,Nunca
+956.0,Hombre,Diploma/certificado profesional,En el último mes,Ayer,En la última semana,En el último mes
+957.0,Hombre,Grado Universitario,En la última semana,En la última decada,Hace mas de una decada,Hace mas de una decada
+958.0,Hombre,Diploma/certificado profesional,Ayer,Ayer,Nunca,Nunca
+959.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+960.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+961.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Hace mas de una decada,Hace mas de una decada
+962.0,Hombre,Diploma/certificado profesional,En la última semana,En el último mes,Nunca,Nunca
+963.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,En la última decada,En el último año
+964.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,En el último año,Ayer
+965.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+966.0,Mujer,Maestría finalizada,En la última semana,Ayer,En la última semana,Nunca
+967.0,Hombre,Maestría finalizada,En la última semana,Ayer,Nunca,Nunca
+968.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,Nunca,Nunca
+969.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+970.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,Nunca,Nunca
+971.0,Hombre,Doctorado finalizado,Ayer,En la última decada,Nunca,Hace mas de una decada
+972.0,Mujer,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+973.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+974.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último mes,Nunca,Nunca
+975.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+976.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+977.0,Hombre,Maestría finalizada,Hace mas de una decada,Hace mas de una decada,Nunca,Nunca
+978.0,Hombre,Educación Técnica o de Universidad(No finalizada),Nunca,Ayer,Nunca,Nunca
+979.0,Mujer,Maestría finalizada,En la última semana,En la última decada,Nunca,Nunca
+980.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,En la última semana,Nunca
+981.0,Mujer,Doctorado finalizado,En el último mes,Ayer,Hace mas de una decada,Nunca
+982.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,En la última decada,Nunca
+983.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,Nunca,Nunca
+984.0,Mujer,Grado Universitario,En la última semana,En el último año,En la última decada,En la última decada
+985.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+986.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+987.0,Hombre,Diploma/certificado profesional,En la última semana,Ayer,Nunca,Ayer
+988.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,En la última semana,Nunca
+989.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+990.0,Hombre,Grado Universitario,En la última semana,En el último mes,En el último año,En la última semana
+991.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,En la última decada,Ayer
+992.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+993.0,Hombre,Diploma/certificado profesional,En el último año,En el último mes,Nunca,Hace mas de una decada
+994.0,Hombre,Grado Universitario,En la última semana,En el último año,Nunca,Nunca
+995.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,En la última semana,En la última semana
+996.0,Hombre,Maestría finalizada,En la última semana,Ayer,Nunca,Nunca
+997.0,Hombre,Maestría finalizada,En la última semana,En el último mes,Nunca,Nunca
+998.0,Hombre,Maestría finalizada,Ayer,En la última semana,Nunca,Nunca
+999.0,Mujer,Doctorado finalizado,En el último año,Ayer,Nunca,Nunca
+1000.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última decada,Nunca,En el último mes
+1001.0,Hombre,Dejó la escuela a los 16 años,En la última semana,En el último mes,Nunca,Nunca
+1002.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,En el último mes
+1003.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1004.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En el último mes,Nunca,Nunca
+1005.0,Hombre,Dejó la escuela a los 18 años,En la última semana,Ayer,Nunca,Nunca
+1006.0,Hombre,Dejó la escuela a los 18 años,En la última semana,En el último año,En la última decada,Nunca
+1007.0,Mujer,Dejó la escuela a los 18 años,En el último año,Nunca,Nunca,Nunca
+1008.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,Nunca,Nunca
+1009.0,Hombre,Maestría finalizada,Ayer,En la última decada,Nunca,Nunca
+1010.0,Mujer,Dejó la escuela a los 18 años,En la última semana,En la última decada,Nunca,Nunca
+1011.0,Hombre,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+1012.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1013.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último mes,En la última decada,En la última semana
+1014.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1015.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,En la última decada,En la última semana
+1016.0,Hombre,Grado Universitario,Hace mas de una decada,En el último mes,Hace mas de una decada,Hace mas de una decada
+1017.0,Hombre,Diploma/certificado profesional,Ayer,Ayer,Nunca,Nunca
+1018.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,En la última semana,En la última semana
+1019.0,Mujer,Dejó la escuela a los 18 años,En la última semana,En la última decada,Nunca,Nunca
+1020.0,Hombre,Dejó la escuela a los 18 años,Nunca,Ayer,Nunca,Nunca
+1021.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,En el último año,Nunca,En el último año
+1022.0,Hombre,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+1023.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,Nunca,Nunca
+1024.0,Hombre,Dejó la escuela a los 18 años,En la última semana,En el último año,Nunca,Nunca
+1025.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,Nunca,Nunca
+1026.0,Mujer,Dejó la escuela a los 18 años,En el último mes,En la última decada,Nunca,Nunca
+1027.0,Mujer,Grado Universitario,En la última semana,En el último mes,Nunca,Nunca
+1028.0,Hombre,Doctorado finalizado,En la última decada,En la última semana,Nunca,En la última semana
+1029.0,Mujer,Grado Universitario,En la última semana,En la última decada,Hace mas de una decada,Hace mas de una decada
+1030.0,Mujer,Maestría finalizada,En la última semana,Ayer,Nunca,Nunca
+1031.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+1032.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+1033.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En la última semana,Hace mas de una decada,En la última semana
+1034.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1035.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1036.0,Hombre,Diploma/certificado profesional,Ayer,En la última decada,Nunca,Nunca
+1037.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,En la última decada
+1038.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,Nunca,Nunca
+1039.0,Mujer,Maestría finalizada,Ayer,Ayer,Nunca,Nunca
+1040.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+1041.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1042.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+1043.0,Hombre,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+1044.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,En el último mes,Nunca
+1045.0,Mujer,Maestría finalizada,Ayer,En la última decada,Nunca,Nunca
+1046.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,Nunca,Nunca
+1047.0,Mujer,Maestría finalizada,En la última semana,En la última decada,Nunca,En la última decada
+1048.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+1049.0,Hombre,Maestría finalizada,Ayer,Ayer,Nunca,Nunca
+1050.0,Hombre,Diploma/certificado profesional,En la última semana,En el último año,Nunca,Nunca
+1051.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1052.0,Hombre,Doctorado finalizado,En la última semana,En el último año,Nunca,Nunca
+1053.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1054.0,Hombre,Dejó la escuela a los 18 años,Ayer,En el último año,Nunca,En el último año
+1055.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1056.0,Hombre,Dejó la escuela a los 16 años,Ayer,En el último mes,Nunca,Nunca
+1057.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,En la última semana,Nunca
+1058.0,Mujer,Dejó la escuela a los 18 años,En el último mes,En el último mes,Nunca,Nunca
+1059.0,Hombre,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1060.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1061.0,Mujer,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Hace mas de una decada
+1062.0,Mujer,Dejó la escuela a los 18 años,En la última decada,Nunca,Nunca,Nunca
+1063.0,Mujer,Grado Universitario,En la última semana,En el último mes,Nunca,Nunca
+1064.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,En la última semana,Nunca
+1065.0,Hombre,Maestría finalizada,En la última semana,Ayer,Nunca,Nunca
+1066.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1067.0,Mujer,Dejó la escuela a los 17 años,En la última semana,En la última semana,Nunca,Nunca
+1068.0,Hombre,Grado Universitario,En el último año,Nunca,Nunca,Nunca
+1069.0,Hombre,Dejó la escuela a los 18 años,Ayer,Ayer,Nunca,Nunca
+1070.0,Mujer,Doctorado finalizado,Ayer,En la última semana,Nunca,Nunca
+1071.0,Mujer,Maestría finalizada,Ayer,En la última semana,Nunca,Nunca
+1072.0,Hombre,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+1073.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+1074.0,Mujer,Maestría finalizada,En la última decada,Nunca,Nunca,Nunca
+1075.0,Mujer,Doctorado finalizado,En la última semana,Nunca,Nunca,Nunca
+1076.0,Hombre,Dejó la escuela a los 18 años,Ayer,En la última semana,Nunca,Nunca
+1077.0,Hombre,Dejó la escuela a los 17 años,En el último año,Ayer,Nunca,Nunca
+1078.0,Mujer,Diploma/certificado profesional,En el último mes,Hace mas de una decada,Nunca,Nunca
+1079.0,Mujer,Grado Universitario,En el último año,En la última decada,Nunca,Nunca
+1080.0,Hombre,Diploma/certificado profesional,En el último mes,Nunca,Nunca,Nunca
+1081.0,Mujer,Diploma/certificado profesional,En el último mes,Hace mas de una decada,Nunca,Nunca
+1082.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+1083.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1084.0,Hombre,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+1085.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+1086.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+1087.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+1088.0,Hombre,Diploma/certificado profesional,Ayer,En la última decada,Nunca,Nunca
+1089.0,Mujer,Maestría finalizada,En el último año,Nunca,Nunca,Nunca
+1090.0,Mujer,Maestría finalizada,Ayer,En la última semana,Nunca,Nunca
+1091.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+1092.0,Mujer,Grado Universitario,Ayer,En el último año,Nunca,Nunca
+1093.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1094.0,Mujer,Dejó la escuela a los 16 años,En el último mes,En la última decada,Nunca,Nunca
+1095.0,Hombre,Grado Universitario,En el último año,En la última decada,Nunca,Nunca
+1096.0,Mujer,Grado Universitario,Ayer,En el último mes,Nunca,Nunca
+1097.0,Hombre,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1098.0,Hombre,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+1099.0,Hombre,Dejó la escuela a los 18 años,En la última semana,En el último año,Nunca,Nunca
+1100.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,En la última semana,En la última semana
+1101.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,Nunca,Nunca
+1102.0,Mujer,Maestría finalizada,En la última semana,En el último año,Nunca,Nunca
+1103.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,Nunca,Nunca
+1104.0,Mujer,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1105.0,Mujer,Maestría finalizada,Ayer,Ayer,Nunca,Nunca
+1106.0,Mujer,Dejó la escuela a los 18 años,En la última semana,En el último mes,Nunca,Nunca
+1107.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,Nunca,Nunca
+1108.0,Mujer,Doctorado finalizado,En el último mes,En la última semana,Nunca,Nunca
+1109.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,En la última semana
+1110.0,Hombre,Grado Universitario,En la última semana,En el último mes,Nunca,Nunca
+1111.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,Nunca,Nunca
+1112.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Hace mas de una decada,Nunca,Hace mas de una decada
+1113.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+1114.0,Hombre,Doctorado finalizado,Ayer,En la última decada,Nunca,Nunca
+1115.0,Hombre,Dejó la escuela a los 18 años,En la última semana,Ayer,Nunca,Nunca
+1116.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1117.0,Hombre,Dejó la escuela a los 16 años,En el último año,Ayer,Nunca,En la última decada
+1118.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1119.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1120.0,Mujer,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+1121.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1122.0,Hombre,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+1123.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última decada,En la última semana,Nunca,En la última decada
+1124.0,Hombre,Dejó la escuela a los 16 años,En el último año,En la última decada,En la última semana,Nunca
+1125.0,Hombre,Diploma/certificado profesional,Ayer,En la última decada,Nunca,Nunca
+1126.0,Hombre,Dejó la escuela a los 18 años,Ayer,Ayer,En la última decada,Nunca
+1127.0,Hombre,Diploma/certificado profesional,En el último mes,En el último año,Nunca,En la última decada
+1128.0,Hombre,Dejó la escuela a los 17 años,En el último año,En la última decada,En la última semana,Nunca
+1129.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,En la última semana,En la última semana
+1130.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,En la última semana,Nunca
+1131.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1132.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,En la última semana,En el último año
+1133.0,Mujer,Diploma/certificado profesional,En el último mes,En la última decada,Nunca,En el último año
+1134.0,Hombre,Maestría finalizada,Ayer,Ayer,Nunca,En la última semana
+1135.0,Hombre,Diploma/certificado profesional,En el último año,En el último año,Nunca,Nunca
+1136.0,Hombre,Maestría finalizada,En la última semana,En la última decada,Nunca,Nunca
+1137.0,Hombre,Dejó la escuela a los 18 años,En el último año,Ayer,En la última decada,En la última decada
+1138.0,Mujer,Doctorado finalizado,En la última semana,Nunca,Nunca,Nunca
+1139.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1140.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,En la última semana
+1141.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,En la última decada,En la última decada
+1142.0,Mujer,Grado Universitario,En el último mes,Ayer,Nunca,Nunca
+1143.0,Hombre,Diploma/certificado profesional,En el último mes,En el último mes,En la última decada,En la última semana
+1144.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En el último mes,Nunca,Nunca
+1145.0,Hombre,Grado Universitario,Hace mas de una decada,Hace mas de una decada,Nunca,Nunca
+1146.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+1147.0,Hombre,Maestría finalizada,En la última semana,Ayer,Nunca,Nunca
+1148.0,Hombre,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+1149.0,Hombre,Diploma/certificado profesional,En el último año,En la última decada,Hace mas de una decada,Nunca
+1150.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,En la última decada,En la última semana
+1151.0,Mujer,Dejó la escuela a los 18 años,Hace mas de una decada,Ayer,Nunca,En la última semana
+1152.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,En la última semana,En la última semana
+1153.0,Mujer,Grado Universitario,Hace mas de una decada,Ayer,En la última semana,Hace mas de una decada
+1154.0,Mujer,Maestría finalizada,En el último año,Nunca,Nunca,Nunca
+1155.0,Hombre,Dejó la escuela a los 18 años,En el último mes,En el último mes,Nunca,Nunca
+1156.0,Mujer,Maestría finalizada,Ayer,Ayer,Nunca,Nunca
+1157.0,Hombre,Doctorado finalizado,Ayer,En el último año,Nunca,Nunca
+1158.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,En la última semana,Nunca,Nunca
+1159.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1160.0,Hombre,Diploma/certificado profesional,En el último año,Ayer,Nunca,Nunca
+1161.0,Mujer,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+1162.0,Hombre,Dejó la escuela a los 17 años,En la última semana,En el último año,Nunca,Nunca
+1163.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,En la última decada
+1164.0,Mujer,Doctorado finalizado,En la última semana,Nunca,Nunca,Nunca
+1165.0,Hombre,Dejó la escuela a los 17 años,En el último mes,En la última semana,Nunca,Nunca
+1166.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1167.0,Hombre,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+1168.0,Hombre,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1169.0,Hombre,Dejó la escuela a los 18 años,Ayer,Ayer,Nunca,Nunca
+1170.0,Hombre,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+1171.0,Mujer,Grado Universitario,Ayer,En la última decada,Nunca,Hace mas de una decada
+1172.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+1173.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,En el último mes
+1174.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1175.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Hace mas de una decada,En la última decada
+1176.0,Hombre,Maestría finalizada,Ayer,En el último mes,Nunca,Nunca
+1177.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En el último mes,Nunca,Nunca
+1178.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+1179.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,Nunca,Nunca
+1180.0,Mujer,Maestría finalizada,En el último mes,En el último mes,Nunca,En la última decada
+1181.0,Hombre,Educación Técnica o de Universidad(No finalizada),Nunca,Ayer,Nunca,Nunca
+1182.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última decada,Ayer,Nunca,Nunca
+1183.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+1184.0,Mujer,Diploma/certificado profesional,Ayer,En el último mes,Nunca,Nunca
+1185.0,Hombre,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1186.0,Hombre,Dejó la escuela a los 16 años,En el último mes,En el último año,Nunca,Nunca
+1187.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,En la última decada
+1188.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último mes,Nunca,Nunca
+1189.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+1190.0,Mujer,Doctorado finalizado,Ayer,Ayer,Hace mas de una decada,Hace mas de una decada
+1191.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1192.0,Hombre,Maestría finalizada,En la última semana,En el último año,Nunca,Nunca
+1193.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,Nunca,Nunca,Nunca
+1194.0,Hombre,Dejó la escuela a los 18 años,Ayer,Ayer,En la última semana,Nunca
+1195.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1196.0,Hombre,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1197.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,Nunca,Nunca
+1198.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1199.0,Hombre,Grado Universitario,Nunca,Nunca,Nunca,Nunca
+1200.0,Hombre,Dejó la escuela a los 16 años,En la última semana,Ayer,Nunca,Nunca
+1201.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En el último mes,Nunca,Nunca
+1202.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+1203.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Ayer
+1204.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1205.0,Hombre,Dejó la escuela a los 18 años,En la última semana,Ayer,En la última decada,En el último año
+1206.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+1207.0,Mujer,Dejó la escuela a los 18 años,En la última semana,En el último mes,Nunca,Nunca
+1208.0,Hombre,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+1209.0,Hombre,Diploma/certificado profesional,Ayer,Ayer,En la última decada,En el último mes
+1210.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En la última decada,En la última semana,Nunca
+1211.0,Hombre,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+1212.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1213.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+1214.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última decada,Nunca,Nunca
+1215.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,En la última semana,Nunca
+1216.0,Mujer,Diploma/certificado profesional,Ayer,Hace mas de una decada,Nunca,Nunca
+1217.0,Hombre,Diploma/certificado profesional,Ayer,Ayer,Nunca,En la última semana
+1218.0,Hombre,Diploma/certificado profesional,En la última semana,Ayer,Nunca,Nunca
+1219.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1220.0,Mujer,Maestría finalizada,En la última semana,En el último año,Nunca,Nunca
+1221.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última decada,Nunca,Nunca
+1222.0,Mujer,Diploma/certificado profesional,En el último mes,En el último año,Nunca,En la última semana
+1223.0,Mujer,Dejó la escuela a los 18 años,Ayer,Ayer,Nunca,Nunca
+1224.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,En la última decada,Nunca
+1225.0,Hombre,Doctorado finalizado,En la última semana,Nunca,Nunca,Nunca
+1226.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+1227.0,Hombre,Grado Universitario,Ayer,En el último año,Nunca,Nunca
+1228.0,Mujer,Grado Universitario,En la última semana,Ayer,En la última semana,Nunca
+1229.0,Hombre,Dejó la escuela a los 16 años,En la última decada,En la última decada,En la última semana,Hace mas de una decada
+1230.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En el último año,Nunca,Nunca
+1231.0,Mujer,Dejó la escuela a los 18 años,Ayer,Ayer,En la última decada,Nunca
+1232.0,Mujer,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+1233.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Nunca,Nunca,Nunca
+1234.0,Hombre,Grado Universitario,En la última semana,En el último mes,Nunca,Nunca
+1235.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1236.0,Hombre,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+1237.0,Mujer,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+1238.0,Hombre,Grado Universitario,En el último mes,Ayer,Nunca,Nunca
+1239.0,Hombre,Dejó la escuela a los 18 años,En la última semana,Ayer,Hace mas de una decada,Nunca
+1240.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+1241.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última decada,Hace mas de una decada,Nunca,Nunca
+1242.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+1243.0,Mujer,Grado Universitario,En el último año,Hace mas de una decada,Nunca,Nunca
+1244.0,Mujer,Grado Universitario,En el último mes,Hace mas de una decada,Nunca,Nunca
+1245.0,Mujer,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+1246.0,Mujer,Grado Universitario,En el último mes,Hace mas de una decada,Nunca,Nunca
+1247.0,Mujer,Diploma/certificado profesional,En el último año,Hace mas de una decada,Nunca,Nunca
+1248.0,Hombre,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+1249.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1250.0,Mujer,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+1251.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+1252.0,Mujer,Doctorado finalizado,Ayer,En la última semana,Nunca,Nunca
+1253.0,Mujer,Dejó la escuela a los 17 años,En la última semana,Nunca,Nunca,Nunca
+1254.0,Mujer,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+1255.0,Mujer,Grado Universitario,En el último año,Nunca,Nunca,Nunca
+1256.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+1257.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1258.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+1259.0,Mujer,Doctorado finalizado,En el último año,Nunca,Nunca,Nunca
+1260.0,Mujer,Maestría finalizada,En el último año,Nunca,Nunca,Nunca
+1261.0,Mujer,Grado Universitario,En la última semana,Ayer,Hace mas de una decada,Nunca
+1262.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Nunca,Nunca,Nunca
+1263.0,Mujer,Diploma/certificado profesional,Ayer,En la última decada,Nunca,Nunca
+1264.0,Mujer,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+1265.0,Mujer,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+1266.0,Mujer,Dejó la escuela a los 16 años,En la última semana,Nunca,Nunca,Nunca
+1267.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+1268.0,Mujer,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+1269.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1270.0,Mujer,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+1271.0,Mujer,Diploma/certificado profesional,En el último año,En la última decada,Nunca,Nunca
+1272.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+1273.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Nunca,Nunca,Nunca
+1274.0,Hombre,Doctorado finalizado,En el último mes,Nunca,Nunca,Nunca
+1275.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+1276.0,Mujer,Diploma/certificado profesional,En el último año,En la última semana,Nunca,Nunca
+1277.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1278.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,En la última semana,En la última semana
+1279.0,Mujer,Diploma/certificado profesional,En el último mes,En el último mes,Hace mas de una decada,Hace mas de una decada
+1280.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1281.0,Hombre,Grado Universitario,Nunca,Nunca,Nunca,Nunca
+1282.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,Nunca,Nunca
+1283.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1284.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,Nunca,Nunca
+1285.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1286.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,En el último mes
+1287.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,En la última semana
+1288.0,Mujer,Grado Universitario,Ayer,En la última semana,Hace mas de una decada,Hace mas de una decada
+1289.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1290.0,Hombre,Maestría finalizada,En la última semana,En el último año,Nunca,Nunca
+1291.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+1292.0,Hombre,Diploma/certificado profesional,En la última semana,Ayer,En la última semana,Nunca
+1293.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,En la última semana,En la última semana
+1294.0,Mujer,Maestría finalizada,Ayer,Ayer,Nunca,Nunca
+1295.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1296.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,En la última decada,Nunca
+1297.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En el último mes,Nunca,Nunca
+1298.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,En la última decada,En la última decada
+1299.0,Mujer,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+1300.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En la última decada,Nunca,Nunca
+1301.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,En el último mes,Nunca,En la última semana
+1302.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+1303.0,Hombre,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+1304.0,Hombre,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+1305.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1306.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1307.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1308.0,Hombre,Maestría finalizada,Ayer,En la última semana,Nunca,Nunca
+1309.0,Mujer,Grado Universitario,En la última semana,En el último año,Nunca,Nunca
+1310.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+1311.0,Hombre,Dejó la escuela a los 16 años,En la última semana,En la última decada,Nunca,Nunca
+1312.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En la última decada,Nunca,Nunca
+1313.0,Mujer,Maestría finalizada,Ayer,Ayer,Nunca,Nunca
+1314.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En el último mes,Nunca,Nunca
+1315.0,Hombre,Grado Universitario,Ayer,En el último año,Nunca,Nunca
+1316.0,Hombre,Grado Universitario,En la última decada,En el último año,Nunca,Nunca
+1317.0,Hombre,Diploma/certificado profesional,En la última semana,Ayer,Nunca,Nunca
+1318.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+1319.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,Nunca,Nunca
+1320.0,Hombre,Grado Universitario,Ayer,En la última semana,En la última semana,Nunca
+1321.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1322.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,Nunca,Nunca
+1323.0,Mujer,Grado Universitario,En la última semana,En el último año,Nunca,Nunca
+1324.0,Hombre,Educación Técnica o de Universidad(No finalizada),Hace mas de una decada,Hace mas de una decada,En la última semana,En la última semana
+1325.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,Nunca,Nunca
+1326.0,Hombre,Diploma/certificado profesional,En el último mes,En el último año,Nunca,Nunca
+1327.0,Hombre,Diploma/certificado profesional,En el último mes,Ayer,Nunca,Nunca
+1328.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1329.0,Mujer,Grado Universitario,En la última semana,Ayer,En la última semana,En la última decada
+1330.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+1331.0,Hombre,Grado Universitario,En la última semana,En el último mes,Nunca,En la última decada
+1332.0,Hombre,Grado Universitario,En la última decada,Ayer,Nunca,Nunca
+1333.0,Mujer,Diploma/certificado profesional,En el último mes,En el último año,Nunca,Nunca
+1334.0,Hombre,Grado Universitario,En la última semana,Ayer,Nunca,En la última decada
+1335.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1336.0,Hombre,Grado Universitario,En el último mes,En la última decada,Nunca,Nunca
+1337.0,Mujer,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+1338.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+1339.0,Hombre,Diploma/certificado profesional,Ayer,En el último mes,En la última decada,Hace mas de una decada
+1340.0,Hombre,Diploma/certificado profesional,En la última semana,En el último año,En el último año,Ayer
+1341.0,Hombre,Dejó la escuela a los 18 años,En la última semana,En el último mes,Nunca,En el último año
+1342.0,Hombre,Dejó la escuela a los 18 años,Ayer,Ayer,Ayer,En el último mes
+1343.0,Mujer,Doctorado finalizado,En el último año,En la última decada,Nunca,Nunca
+1344.0,Hombre,Diploma/certificado profesional,En la última semana,En la última decada,En la última decada,Nunca
+1345.0,Hombre,Dejó la escuela a los 18 años,En la última semana,Ayer,En el último mes,Nunca
+1346.0,Hombre,Dejó la escuela a los 18 años,En la última semana,En el último año,Nunca,Nunca
+1347.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Hace mas de una decada,Nunca
+1348.0,Hombre,Grado Universitario,En la última semana,En el último mes,Nunca,Nunca
+1349.0,Mujer,Dejó la escuela a los 18 años,En el último mes,Ayer,Nunca,En la última decada
+1350.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+1351.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+1352.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1353.0,Hombre,Grado Universitario,En la última decada,En la última semana,Hace mas de una decada,Nunca
+1354.0,Mujer,Dejó la escuela a los 18 años,En el último año,Ayer,Nunca,Nunca
+1355.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,En la última decada
+1356.0,Hombre,Grado Universitario,En el último mes,Ayer,Nunca,Nunca
+1357.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último mes,Nunca,Nunca
+1358.0,Hombre,Diploma/certificado profesional,En el último mes,En la última decada,Nunca,Nunca
+1359.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1360.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última decada,En la última semana,En el último mes
+1361.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1362.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+1363.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último mes,Nunca,En el último mes
+1364.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1365.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1366.0,Mujer,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+1367.0,Mujer,Dejó la escuela a los 16 años,Ayer,Ayer,Nunca,Nunca
+1368.0,Hombre,Dejó la escuela a los 18 años,En el último año,En el último mes,Nunca,Nunca
+1369.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,En el último mes
+1370.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,En la última decada,En la última decada
+1371.0,Mujer,Diploma/certificado profesional,En el último mes,En el último año,Hace mas de una decada,En la última decada
+1372.0,Mujer,Maestría finalizada,Ayer,En la última semana,Nunca,Nunca
+1373.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1374.0,Hombre,Grado Universitario,En la última semana,Ayer,Ayer,En la última decada
+1375.0,Hombre,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+1376.0,Hombre,Dejó la escuela a los 18 años,En el último año,En el último año,Nunca,Nunca
+1377.0,Hombre,Grado Universitario,En la última semana,En la última semana,En la última decada,En la última semana
+1378.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1379.0,Mujer,Maestría finalizada,En el último año,En el último mes,Nunca,Nunca
+1380.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1381.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1382.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1383.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1384.0,Mujer,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1385.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1386.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,Nunca,Nunca
+1387.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,Hace mas de una decada,En la última semana,En la última semana
+1388.0,Mujer,Doctorado finalizado,Nunca,Nunca,Nunca,Nunca
+1389.0,Mujer,Diploma/certificado profesional,En la última semana,En el último mes,Nunca,Nunca
+1390.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1391.0,Hombre,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1392.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,En la última semana,En la última semana
+1393.0,Hombre,Diploma/certificado profesional,Nunca,Nunca,Nunca,Nunca
+1394.0,Mujer,Maestría finalizada,En el último año,En la última decada,Nunca,Nunca
+1395.0,Mujer,Maestría finalizada,En el último año,Nunca,Nunca,Nunca
+1396.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+1397.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1398.0,Mujer,Grado Universitario,En la última semana,En el último mes,Nunca,Nunca
+1399.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En la última semana,En la última semana,Nunca
+1400.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+1401.0,Mujer,Maestría finalizada,En la última semana,En la última decada,Nunca,Nunca
+1402.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1403.0,Mujer,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+1404.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1405.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1406.0,Mujer,Doctorado finalizado,Ayer,En la última semana,Nunca,Nunca
+1407.0,Mujer,Grado Universitario,Ayer,En la última semana,Nunca,Nunca
+1408.0,Mujer,Maestría finalizada,En la última semana,En el último año,Nunca,Nunca
+1409.0,Hombre,Maestría finalizada,Ayer,En la última semana,Nunca,Nunca
+1410.0,Mujer,Doctorado finalizado,En la última semana,En el último año,Nunca,Nunca
+1411.0,Mujer,Grado Universitario,En el último año,Nunca,Nunca,Nunca
+1412.0,Mujer,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1413.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+1414.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+1415.0,Mujer,Doctorado finalizado,En la última semana,En el último mes,Nunca,Nunca
+1416.0,Hombre,Dejó la escuela a los 16 años,En el último año,Ayer,Nunca,Nunca
+1417.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1418.0,Mujer,Grado Universitario,Nunca,Nunca,Nunca,Nunca
+1419.0,Mujer,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+1420.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1421.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1422.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1423.0,Hombre,Dejó la escuela antes de los 16 años,Hace mas de una decada,Ayer,Nunca,Nunca
+1424.0,Hombre,Grado Universitario,En el último mes,Ayer,Nunca,En la última semana
+1425.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+1426.0,Mujer,Grado Universitario,Ayer,Ayer,En la última semana,En la última decada
+1427.0,Hombre,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+1428.0,Mujer,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+1429.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,Nunca,Nunca
+1430.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,En el último año,Nunca,Nunca
+1431.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Nunca,Nunca,Nunca
+1432.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,Nunca,Nunca
+1433.0,Mujer,Doctorado finalizado,Ayer,En la última decada,Nunca,Nunca
+1434.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1435.0,Mujer,Maestría finalizada,En la última decada,Nunca,Nunca,Nunca
+1436.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+1437.0,Mujer,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+1438.0,Hombre,Dejó la escuela a los 16 años,En el último año,En la última decada,Nunca,En la última semana
+1439.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,En la última decada
+1440.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,Nunca,Nunca
+1441.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+1442.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+1443.0,Mujer,Maestría finalizada,Hace mas de una decada,Nunca,Nunca,Nunca
+1444.0,Mujer,Doctorado finalizado,Ayer,En la última semana,Nunca,Nunca
+1445.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+1446.0,Mujer,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+1447.0,Mujer,Maestría finalizada,En el último mes,Nunca,Nunca,Nunca
+1448.0,Mujer,Maestría finalizada,En el último mes,Nunca,Nunca,Nunca
+1449.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1450.0,Mujer,Maestría finalizada,Nunca,Nunca,Nunca,Nunca
+1451.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+1452.0,Mujer,Doctorado finalizado,En la última semana,En la última semana,Nunca,Nunca
+1453.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En el último año,En la última semana,En la última decada
+1454.0,Mujer,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+1455.0,Mujer,Doctorado finalizado,En la última semana,Nunca,Nunca,Nunca
+1456.0,Hombre,Diploma/certificado profesional,En la última semana,En el último año,Nunca,Nunca
+1457.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1458.0,Mujer,Doctorado finalizado,En el último mes,En la última decada,Nunca,Nunca
+1459.0,Mujer,Grado Universitario,En el último mes,Hace mas de una decada,Nunca,Nunca
+1460.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+1461.0,Mujer,Doctorado finalizado,En la última semana,Hace mas de una decada,Nunca,Nunca
+1462.0,Hombre,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+1463.0,Hombre,Maestría finalizada,En la última semana,En la última decada,Nunca,Nunca
+1464.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1465.0,Hombre,Maestría finalizada,En el último mes,Nunca,Nunca,Nunca
+1466.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+1467.0,Mujer,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1468.0,Mujer,Grado Universitario,En el último mes,Ayer,Hace mas de una decada,Hace mas de una decada
+1469.0,Mujer,Maestría finalizada,En el último mes,En la última semana,Nunca,Nunca
+1470.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1471.0,Hombre,Grado Universitario,Nunca,Nunca,Nunca,Nunca
+1472.0,Hombre,Maestría finalizada,En la última semana,En el último mes,Nunca,Nunca
+1473.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último mes,Nunca,Nunca
+1474.0,Mujer,Maestría finalizada,Ayer,En la última decada,Nunca,Nunca
+1475.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,Nunca,Nunca
+1476.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,En la última semana,En el último mes
+1477.0,Hombre,Diploma/certificado profesional,En la última semana,Ayer,En la última semana,Nunca
+1478.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1479.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,En la última semana
+1480.0,Mujer,Diploma/certificado profesional,En la última semana,Hace mas de una decada,Nunca,Nunca
+1481.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,En la última semana,En la última semana,En la última semana
+1482.0,Mujer,Grado Universitario,En el último mes,Ayer,Nunca,Hace mas de una decada
+1483.0,Mujer,Doctorado finalizado,En la última semana,Nunca,Nunca,Nunca
+1484.0,Mujer,Grado Universitario,En la última semana,En el último mes,Nunca,Nunca
+1485.0,Hombre,Diploma/certificado profesional,En el último año,En la última semana,Nunca,En la última semana
+1486.0,Mujer,Doctorado finalizado,En la última semana,Nunca,Nunca,Nunca
+1487.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1488.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1489.0,Hombre,Grado Universitario,Ayer,Ayer,Nunca,En la última decada
+1490.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En la última semana,Nunca,Nunca
+1491.0,Mujer,Doctorado finalizado,En la última semana,En la última semana,Nunca,Nunca
+1492.0,Mujer,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+1493.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1494.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,En la última semana,Nunca
+1495.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,En el último mes,Nunca
+1496.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1497.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última decada,Nunca,Nunca
+1498.0,Hombre,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1499.0,Mujer,Dejó la escuela antes de los 16 años,En la última semana,Ayer,En la última semana,Nunca
+1500.0,Hombre,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+1501.0,Hombre,Doctorado finalizado,En la última semana,Ayer,En la última decada,En la última decada
+1502.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,Nunca,Nunca
+1503.0,Hombre,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+1504.0,Hombre,Grado Universitario,Ayer,Ayer,Nunca,En la última semana
+1505.0,Mujer,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+1506.0,Mujer,Diploma/certificado profesional,En la última semana,Ayer,Nunca,Nunca
+1507.0,Mujer,Doctorado finalizado,Ayer,Hace mas de una decada,Nunca,Nunca
+1508.0,Mujer,Dejó la escuela a los 16 años,En el último mes,Nunca,Nunca,Nunca
+1509.0,Mujer,Grado Universitario,Ayer,En la última decada,Nunca,Nunca
+1510.0,Mujer,Diploma/certificado profesional,En la última semana,Ayer,Hace mas de una decada,Nunca
+1511.0,Hombre,Educación Técnica o de Universidad(No finalizada),Nunca,Nunca,Nunca,Nunca
+1512.0,Hombre,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1513.0,Hombre,Dejó la escuela antes de los 16 años,Ayer,Ayer,Nunca,Nunca
+1514.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,En la última semana,Nunca
+1515.0,Hombre,Dejó la escuela a los 18 años,En el último año,En la última semana,En la última semana,En el último mes
+1516.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último mes,Nunca,Nunca
+1517.0,Hombre,Dejó la escuela a los 18 años,En la última semana,Ayer,Nunca,Nunca
+1518.0,Hombre,Doctorado finalizado,En la última semana,En la última decada,Nunca,Nunca
+1519.0,Hombre,Diploma/certificado profesional,Ayer,Ayer,Nunca,Nunca
+1520.0,Hombre,Educación Técnica o de Universidad(No finalizada),Nunca,En el último mes,En la última semana,En la última semana
+1521.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,Nunca,Nunca
+1522.0,Hombre,Diploma/certificado profesional,En la última semana,Ayer,Nunca,Nunca
+1523.0,Hombre,Diploma/certificado profesional,En el último año,En la última decada,Nunca,Nunca
+1524.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última decada,Nunca,En la última semana
+1525.0,Hombre,Dejó la escuela a los 18 años,En la última decada,Ayer,Nunca,Nunca
+1526.0,Hombre,Dejó la escuela a los 16 años,Ayer,En el último mes,Nunca,Nunca
+1527.0,Hombre,Dejó la escuela a los 18 años,En la última semana,En el último año,Nunca,Nunca
+1528.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1529.0,Mujer,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+1530.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,En la última decada,Nunca
+1531.0,Hombre,Dejó la escuela antes de los 16 años,En el último año,En el último mes,Nunca,Nunca
+1532.0,Mujer,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1533.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,En la última decada,En la última semana
+1534.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+1535.0,Hombre,Dejó la escuela a los 18 años,Ayer,En el último año,Nunca,Nunca
+1536.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último mes,Nunca,Nunca
+1537.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+1538.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1539.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Nunca,Nunca,Nunca
+1540.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,En la última decada,En la última decada
+1541.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1542.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1543.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,En la última semana,En el último año
+1544.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,Nunca,Nunca
+1545.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1546.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+1547.0,Hombre,Dejó la escuela a los 18 años,En el último año,En el último mes,Nunca,Nunca
+1548.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+1549.0,Hombre,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1550.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1551.0,Mujer,Diploma/certificado profesional,Ayer,En la última semana,Nunca,Nunca
+1552.0,Mujer,Diploma/certificado profesional,En el último año,Nunca,Nunca,Nunca
+1553.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,Hace mas de una decada,Nunca,Nunca
+1554.0,Mujer,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+1555.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En la última semana,Nunca,Nunca
+1556.0,Hombre,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+1557.0,Mujer,Maestría finalizada,Ayer,En la última decada,Nunca,Nunca
+1558.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última semana,Nunca,Nunca
+1559.0,Mujer,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+1560.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+1561.0,Mujer,Maestría finalizada,En el último mes,En la última semana,Nunca,Nunca
+1562.0,Mujer,Grado Universitario,Hace mas de una decada,Hace mas de una decada,Nunca,Nunca
+1563.0,Mujer,Dejó la escuela antes de los 16 años,Hace mas de una decada,Nunca,Nunca,Nunca
+1564.0,Hombre,Diploma/certificado profesional,En el último mes,En la última decada,Nunca,Nunca
+1565.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+1566.0,Mujer,Diploma/certificado profesional,Ayer,Hace mas de una decada,Nunca,Nunca
+1567.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1568.0,Mujer,Diploma/certificado profesional,En el último mes,Nunca,Nunca,Nunca
+1569.0,Hombre,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1570.0,Hombre,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1571.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+1572.0,Hombre,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+1573.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,En la última semana,Nunca,Nunca
+1574.0,Mujer,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+1575.0,Mujer,Diploma/certificado profesional,En el último año,Nunca,Nunca,Nunca
+1576.0,Mujer,Grado Universitario,En el último año,Nunca,Nunca,Nunca
+1577.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Hace mas de una decada,Nunca,Nunca
+1578.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1579.0,Mujer,Grado Universitario,En el último año,Nunca,Nunca,Nunca
+1580.0,Mujer,Maestría finalizada,En el último mes,Hace mas de una decada,Nunca,Nunca
+1581.0,Mujer,Dejó la escuela a los 16 años,Ayer,Nunca,Nunca,Nunca
+1582.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1583.0,Mujer,Maestría finalizada,En el último mes,Nunca,Nunca,Nunca
+1584.0,Hombre,Diploma/certificado profesional,Ayer,Hace mas de una decada,Nunca,Nunca
+1585.0,Mujer,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+1586.0,Mujer,Grado Universitario,Ayer,En la última semana,En la última semana,Nunca
+1587.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+1588.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1589.0,Hombre,Dejó la escuela a los 16 años,Ayer,Nunca,Nunca,Nunca
+1590.0,Hombre,Diploma/certificado profesional,En el último mes,Hace mas de una decada,Nunca,Nunca
+1591.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1592.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1593.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1594.0,Mujer,Doctorado finalizado,En la última semana,Hace mas de una decada,Nunca,Nunca
+1595.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1596.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+1597.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Nunca,Nunca,Nunca
+1598.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1599.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1600.0,Mujer,Diploma/certificado profesional,En el último mes,Hace mas de una decada,Nunca,Nunca
+1601.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1602.0,Hombre,Maestría finalizada,En el último mes,En la última semana,Nunca,Nunca
+1603.0,Mujer,Maestría finalizada,Ayer,Nunca,Nunca,Nunca
+1604.0,Mujer,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+1605.0,Hombre,Dejó la escuela a los 16 años,En la última semana,Nunca,Nunca,Nunca
+1606.0,Mujer,Grado Universitario,Nunca,Nunca,Nunca,Nunca
+1607.0,Mujer,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+1608.0,Mujer,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+1609.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En la última decada,En la última decada,En la última semana
+1610.0,Mujer,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+1611.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1612.0,Mujer,Grado Universitario,En el último año,Nunca,Nunca,Nunca
+1613.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+1614.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Hace mas de una decada,Nunca,Nunca
+1615.0,Mujer,Doctorado finalizado,En la última semana,Hace mas de una decada,Nunca,Nunca
+1616.0,Hombre,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+1617.0,Hombre,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1618.0,Hombre,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1619.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Hace mas de una decada,En la última decada
+1620.0,Hombre,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1621.0,Hombre,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+1622.0,Hombre,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1623.0,Hombre,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1624.0,Hombre,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+1625.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Hace mas de una decada,Nunca
+1626.0,Mujer,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+1627.0,Mujer,Diploma/certificado profesional,En la última semana,Hace mas de una decada,Nunca,Nunca
+1628.0,Mujer,Maestría finalizada,En el último mes,Hace mas de una decada,Nunca,Nunca
+1629.0,Mujer,Maestría finalizada,En el último año,Nunca,Nunca,Nunca
+1630.0,Mujer,Diploma/certificado profesional,En la última decada,Hace mas de una decada,Nunca,Nunca
+1631.0,Mujer,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+1632.0,Mujer,Diploma/certificado profesional,En la última semana,Hace mas de una decada,Nunca,Nunca
+1633.0,Hombre,Diploma/certificado profesional,Ayer,Ayer,Nunca,Nunca
+1634.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1635.0,Mujer,Dejó la escuela a los 18 años,En el último mes,Nunca,Nunca,Nunca
+1636.0,Hombre,Dejó la escuela antes de los 16 años,En la última semana,Nunca,Nunca,Nunca
+1637.0,Mujer,Diploma/certificado profesional,En el último mes,Nunca,Nunca,Nunca
+1638.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1639.0,Mujer,Dejó la escuela a los 16 años,En la última semana,Nunca,Nunca,Nunca
+1640.0,Mujer,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+1641.0,Mujer,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+1642.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1643.0,Mujer,Maestría finalizada,En el último mes,Nunca,Nunca,Nunca
+1644.0,Mujer,Diploma/certificado profesional,En el último año,Nunca,Nunca,Nunca
+1645.0,Mujer,Maestría finalizada,En el último año,Hace mas de una decada,Nunca,Nunca
+1646.0,Hombre,Dejó la escuela a los 16 años,En la última semana,Hace mas de una decada,Nunca,Nunca
+1647.0,Hombre,Diploma/certificado profesional,Ayer,En la última semana,Nunca,Nunca
+1648.0,Hombre,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+1649.0,Mujer,Maestría finalizada,En el último mes,Nunca,Nunca,Nunca
+1650.0,Mujer,Grado Universitario,En el último año,Nunca,Nunca,Nunca
+1651.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+1652.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última semana,En la última semana,Nunca
+1653.0,Hombre,Grado Universitario,En la última semana,Ayer,Nunca,Ayer
+1654.0,Mujer,Doctorado finalizado,En la última semana,Hace mas de una decada,Nunca,Nunca
+1655.0,Hombre,Dejó la escuela a los 16 años,En la última semana,Nunca,Nunca,Nunca
+1656.0,Mujer,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+1657.0,Mujer,Grado Universitario,En el último mes,En la última semana,Nunca,Nunca
+1658.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En la última decada,En la última decada,En la última decada
+1659.0,Hombre,Diploma/certificado profesional,En el último mes,En la última decada,Nunca,Nunca
+1660.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+1661.0,Mujer,Diploma/certificado profesional,En el último año,En la última decada,En la última semana,En la última semana
+1662.0,Mujer,Dejó la escuela antes de los 16 años,En la última decada,Ayer,Nunca,Nunca
+1663.0,Hombre,Diploma/certificado profesional,En la última semana,Ayer,En la última semana,Nunca
+1664.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última decada,Nunca,Nunca
+1665.0,Mujer,Doctorado finalizado,En la última semana,En la última semana,En la última semana,Nunca
+1666.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1667.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,Nunca,Nunca
+1668.0,Mujer,Doctorado finalizado,En el último año,En la última semana,Nunca,Nunca
+1669.0,Hombre,Diploma/certificado profesional,En el último año,Hace mas de una decada,Nunca,Nunca
+1670.0,Mujer,Grado Universitario,En el último mes,Hace mas de una decada,Nunca,Nunca
+1671.0,Hombre,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+1672.0,Hombre,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+1673.0,Mujer,Grado Universitario,En el último año,En la última semana,Nunca,Nunca
+1674.0,Hombre,Diploma/certificado profesional,En el último año,En el último mes,Nunca,Nunca
+1675.0,Hombre,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1676.0,Hombre,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+1677.0,Mujer,Grado Universitario,En el último año,Nunca,Nunca,Nunca
+1678.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1679.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1680.0,Mujer,Grado Universitario,En el último año,Nunca,Nunca,Nunca
+1681.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1682.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Nunca,Nunca,Nunca
+1683.0,Hombre,Diploma/certificado profesional,En la última semana,En la última decada,Nunca,Nunca
+1684.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última decada,Nunca,Nunca
+1685.0,Hombre,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+1686.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,Nunca,Nunca
+1687.0,Mujer,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+1688.0,Mujer,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+1689.0,Mujer,Maestría finalizada,Ayer,En el último mes,Nunca,Nunca
+1690.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En la última decada,Hace mas de una decada,Hace mas de una decada
+1691.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En la última decada,Nunca,Nunca
+1692.0,Mujer,Doctorado finalizado,En la última semana,Nunca,Nunca,Nunca
+1693.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+1694.0,Mujer,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1695.0,Hombre,Maestría finalizada,Ayer,En la última decada,Nunca,Nunca
+1696.0,Hombre,Diploma/certificado profesional,Ayer,Hace mas de una decada,Nunca,Nunca
+1697.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En el último mes,Nunca,Nunca
+1698.0,Hombre,Doctorado finalizado,Ayer,En la última semana,Nunca,Nunca
+1699.0,Mujer,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+1700.0,Mujer,Maestría finalizada,Ayer,En la última decada,Nunca,Nunca
+1701.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último mes,Nunca,Nunca
+1702.0,Mujer,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+1703.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1704.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En la última semana,Nunca,En la última decada
+1705.0,Hombre,Dejó la escuela a los 18 años,En la última semana,Ayer,En la última decada,Nunca
+1706.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1707.0,Hombre,Grado Universitario,En el último mes,Nunca,Nunca,Nunca
+1708.0,Mujer,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+1709.0,Mujer,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+1710.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+1711.0,Mujer,Dejó la escuela a los 18 años,En el último mes,Nunca,Nunca,Nunca
+1712.0,Mujer,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+1713.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Hace mas de una decada,Hace mas de una decada
+1714.0,Mujer,Doctorado finalizado,En el último mes,En el último mes,Nunca,Nunca
+1715.0,Mujer,Dejó la escuela a los 16 años,En la última semana,Nunca,Nunca,Nunca
+1716.0,Hombre,Diploma/certificado profesional,Hace mas de una decada,Hace mas de una decada,Nunca,Nunca
+1717.0,Hombre,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+1718.0,Mujer,Maestría finalizada,En la última semana,Hace mas de una decada,Nunca,Nunca
+1719.0,Hombre,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1720.0,Mujer,Grado Universitario,En la última semana,Hace mas de una decada,Nunca,Nunca
+1721.0,Mujer,Grado Universitario,Nunca,Nunca,Nunca,Nunca
+1722.0,Mujer,Dejó la escuela a los 18 años,En la última semana,Hace mas de una decada,Nunca,Nunca
+1723.0,Hombre,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+1724.0,Hombre,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+1725.0,Mujer,Diploma/certificado profesional,En la última semana,Hace mas de una decada,Nunca,Nunca
+1726.0,Mujer,Dejó la escuela a los 16 años,En el último año,Nunca,Nunca,Nunca
+1727.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+1728.0,Mujer,Dejó la escuela a los 16 años,En el último mes,Nunca,Nunca,Nunca
+1729.0,Hombre,Maestría finalizada,Ayer,Hace mas de una decada,Nunca,Nunca
+1730.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,Nunca,Nunca
+1731.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,En la última decada,Nunca,Nunca
+1732.0,Hombre,Maestría finalizada,En la última semana,En la última decada,Nunca,Nunca
+1733.0,Hombre,Diploma/certificado profesional,En el último mes,En la última semana,Nunca,Nunca
+1734.0,Hombre,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1735.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1736.0,Mujer,Maestría finalizada,En la última semana,En la última semana,Nunca,Nunca
+1737.0,Hombre,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1738.0,Hombre,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1739.0,Mujer,Dejó la escuela antes de los 16 años,En la última semana,Nunca,Nunca,Nunca
+1740.0,Mujer,Diploma/certificado profesional,En el último mes,En la última semana,Nunca,Nunca
+1741.0,Mujer,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+1742.0,Mujer,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1743.0,Hombre,Grado Universitario,En la última semana,En la última semana,Nunca,Nunca
+1744.0,Mujer,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1745.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,Nunca,Nunca,Nunca
+1746.0,Mujer,Dejó la escuela a los 16 años,En el último mes,Nunca,Nunca,Nunca
+1747.0,Mujer,Maestría finalizada,Nunca,Nunca,Nunca,Nunca
+1748.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,Nunca,Nunca,Nunca
+1749.0,Hombre,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1750.0,Mujer,Dejó la escuela a los 17 años,En la última semana,En la última decada,Nunca,Nunca
+1751.0,Hombre,Dejó la escuela a los 16 años,En la última semana,Nunca,Nunca,Nunca
+1752.0,Mujer,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1753.0,Hombre,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1754.0,Mujer,Diploma/certificado profesional,Ayer,En la última semana,Nunca,Nunca
+1755.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1756.0,Mujer,Dejó la escuela a los 18 años,En la última semana,Ayer,Nunca,Nunca
+1757.0,Hombre,Dejó la escuela a los 18 años,En la última semana,Ayer,En la última decada,Nunca
+1758.0,Hombre,Diploma/certificado profesional,Ayer,Nunca,Nunca,Nunca
+1759.0,Hombre,Maestría finalizada,En el último año,En la última decada,Nunca,En la última decada
+1760.0,Hombre,Maestría finalizada,En la última semana,En el último año,Nunca,Nunca
+1761.0,Mujer,Diploma/certificado profesional,En la última semana,Hace mas de una decada,Nunca,Nunca
+1762.0,Mujer,Diploma/certificado profesional,En la última semana,En la última semana,Nunca,Nunca
+1763.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1764.0,Mujer,Grado Universitario,En el último mes,En el último mes,Nunca,Nunca
+1765.0,Hombre,Dejó la escuela a los 16 años,En la última semana,En el último año,En el último mes,En el último mes
+1766.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En el último año,En la última semana,En la última decada
+1767.0,Mujer,Grado Universitario,En la última semana,En el último año,Nunca,Nunca
+1768.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+1769.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1770.0,Mujer,Diploma/certificado profesional,En la última semana,Nunca,Nunca,Nunca
+1771.0,Hombre,Grado Universitario,En la última semana,En el último mes,Nunca,Nunca
+1772.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última decada,Hace mas de una decada,Nunca,Nunca
+1773.0,Hombre,Dejó la escuela a los 18 años,En el último mes,Ayer,Nunca,Nunca
+1774.0,Mujer,Maestría finalizada,Ayer,Ayer,En la última decada,En la última decada
+1775.0,Mujer,Dejó la escuela a los 18 años,Nunca,Ayer,Nunca,En el último mes
+1776.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última decada,Nunca,Nunca
+1777.0,Mujer,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1778.0,Mujer,Dejó la escuela a los 16 años,Hace mas de una decada,En la última semana,En la última semana,Hace mas de una decada
+1779.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+1780.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última decada,En la última semana,Hace mas de una decada,Hace mas de una decada
+1781.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Ayer
+1782.0,Hombre,Dejó la escuela a los 18 años,En la última semana,En la última semana,Nunca,Nunca
+1783.0,Mujer,Dejó la escuela a los 17 años,En la última semana,En el último año,Nunca,Nunca
+1784.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Nunca,Nunca,Nunca
+1785.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1786.0,Mujer,Maestría finalizada,En la última semana,En la última decada,Nunca,Nunca
+1787.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1788.0,Hombre,Grado Universitario,En el último mes,En la última decada,Nunca,Nunca
+1789.0,Mujer,Grado Universitario,Ayer,Hace mas de una decada,Nunca,Nunca
+1790.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1791.0,Hombre,Dejó la escuela a los 17 años,En el último año,En el último año,Nunca,En la última semana
+1792.0,Mujer,Doctorado finalizado,En el último mes,En la última semana,Nunca,En la última semana
+1793.0,Hombre,Grado Universitario,Ayer,Ayer,En la última semana,Nunca
+1794.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,Nunca
+1795.0,Mujer,Educación Técnica o de Universidad(No finalizada),Nunca,En el último año,Nunca,Nunca
+1796.0,Hombre,Grado Universitario,Ayer,Ayer,En la última decada,En la última semana
+1797.0,Mujer,Dejó la escuela a los 16 años,En la última decada,Ayer,En la última semana,Nunca
+1798.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En la última decada,Nunca,Nunca
+1799.0,Hombre,Grado Universitario,En el último año,En la última decada,Nunca,Nunca
+1800.0,Hombre,Maestría finalizada,En la última semana,Nunca,Nunca,Nunca
+1801.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última decada,Hace mas de una decada,Nunca,Nunca
+1802.0,Hombre,Doctorado finalizado,Ayer,Ayer,Nunca,Nunca
+1803.0,Hombre,Maestría finalizada,En el último mes,Ayer,Nunca,Nunca
+1804.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último mes,Nunca,En la última semana
+1805.0,Hombre,Diploma/certificado profesional,En el último mes,En el último mes,Nunca,Nunca
+1806.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1807.0,Mujer,Diploma/certificado profesional,En el último mes,Ayer,Nunca,Nunca
+1808.0,Hombre,Grado Universitario,En la última semana,Ayer,Hace mas de una decada,En la última semana
+1809.0,Mujer,Maestría finalizada,En el último mes,Nunca,Nunca,Nunca
+1810.0,Mujer,Dejó la escuela a los 17 años,En el último mes,Ayer,En la última semana,En la última semana
+1811.0,Hombre,Grado Universitario,Ayer,Ayer,Nunca,En la última semana
+1812.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1813.0,Mujer,Dejó la escuela a los 18 años,En el último mes,En la última semana,Nunca,En la última semana
+1814.0,Hombre,Grado Universitario,En el último mes,Hace mas de una decada,Hace mas de una decada,Hace mas de una decada
+1815.0,Mujer,Grado Universitario,En la última decada,Ayer,Nunca,Nunca
+1816.0,Mujer,Maestría finalizada,Ayer,En la última decada,Nunca,Nunca
+1817.0,Hombre,Grado Universitario,En la última semana,Nunca,Nunca,Nunca
+1818.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,En la última semana,Nunca
+1819.0,Mujer,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1820.0,Hombre,Maestría finalizada,Ayer,En el último año,Nunca,Nunca
+1821.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última decada,Ayer,Nunca,Nunca
+1822.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,En el último mes,Nunca,Nunca
+1823.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,Nunca,Nunca
+1824.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última decada,Nunca,Nunca
+1825.0,Hombre,Grado Universitario,Ayer,Nunca,Nunca,Nunca
+1826.0,Hombre,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1827.0,Mujer,Grado Universitario,En el último mes,Ayer,Nunca,Nunca
+1828.0,Mujer,Grado Universitario,En el último mes,En el último año,Hace mas de una decada,Nunca
+1829.0,Mujer,Maestría finalizada,En la última semana,Ayer,Nunca,Nunca
+1830.0,Mujer,Grado Universitario,En la última decada,En el último año,Hace mas de una decada,Hace mas de una decada
+1831.0,Mujer,Grado Universitario,Ayer,En la última decada,Nunca,En la última semana
+1832.0,Hombre,Dejó la escuela a los 18 años,Ayer,Ayer,Nunca,Nunca
+1833.0,Hombre,Grado Universitario,En la última semana,Ayer,Nunca,Nunca
+1834.0,Mujer,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+1835.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,En la última semana,Nunca
+1836.0,Hombre,Grado Universitario,En el último año,En la última semana,Hace mas de una decada,En la última semana
+1837.0,Mujer,Diploma/certificado profesional,En la última decada,Ayer,Nunca,Nunca
+1838.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,En el último año,Nunca,Nunca
+1839.0,Mujer,Diploma/certificado profesional,Ayer,Ayer,Hace mas de una decada,Nunca
+1840.0,Mujer,Diploma/certificado profesional,En el último mes,En el último año,Hace mas de una decada,Hace mas de una decada
+1841.0,Mujer,Grado Universitario,En la última decada,En la última semana,En la última semana,En la última semana
+1842.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1843.0,Hombre,Grado Universitario,En el último mes,Ayer,Nunca,Nunca
+1844.0,Hombre,Doctorado finalizado,En la última semana,En la última semana,Hace mas de una decada,Hace mas de una decada
+1845.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,Nunca,Nunca
+1846.0,Hombre,Grado Universitario,En la última semana,En el último año,Hace mas de una decada,Nunca
+1847.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+1848.0,Mujer,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+1849.0,Mujer,Educación Técnica o de Universidad(No finalizada),En el último año,Ayer,En la última semana,En el último mes
+1850.0,Hombre,Diploma/certificado profesional,En la última decada,Ayer,Nunca,Nunca
+1851.0,Mujer,Grado Universitario,En el último año,En la última semana,Nunca,Nunca
+1852.0,Hombre,Dejó la escuela a los 17 años,En la última semana,En la última decada,En la última decada,Nunca
+1853.0,Hombre,Diploma/certificado profesional,Ayer,Ayer,Nunca,Nunca
+1854.0,Mujer,Maestría finalizada,En la última semana,En el último año,Nunca,Nunca
+1855.0,Hombre,Dejó la escuela a los 16 años,En el último año,En la última semana,En la última decada,Nunca
+1856.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1857.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En el último año,En la última decada,En la última decada
+1858.0,Hombre,Dejó la escuela a los 17 años,En la última semana,En la última decada,En la última decada,Nunca
+1859.0,Hombre,Diploma/certificado profesional,En el último mes,En el último mes,Nunca,Nunca
+1860.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En el último mes,Nunca,Nunca
+1861.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,En el último año,En la última decada,En la última decada
+1862.0,Hombre,Dejó la escuela a los 18 años,En el último mes,Ayer,Nunca,Nunca
+1863.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,En el último mes,En la última decada
+1864.0,Mujer,Grado Universitario,En la última semana,Ayer,Nunca,En la última semana
+1865.0,Mujer,Grado Universitario,En la última semana,En la última decada,Nunca,Nunca
+1866.0,Hombre,Dejó la escuela antes de los 16 años,Ayer,Ayer,En la última semana,En la última semana
+1867.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1868.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,En la última semana,En la última semana
+1869.0,Mujer,Diploma/certificado profesional,En la última semana,Ayer,Nunca,Nunca
+1870.0,Mujer,Grado Universitario,Ayer,Ayer,Nunca,Nunca
+1871.0,Mujer,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,En la última semana,En la última semana
+1872.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última decada,Ayer,Nunca,Nunca
+1873.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último año,En el último año,Nunca,Nunca
+1874.0,Mujer,Grado Universitario,Ayer,En el último año,Nunca,Nunca
+1875.0,Hombre,Dejó la escuela a los 18 años,Ayer,Ayer,En la última decada,Ayer
+1876.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1877.0,Hombre,Dejó la escuela a los 17 años,En la última semana,Ayer,En la última semana,En la última semana
+1878.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+1879.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1880.0,Hombre,Educación Técnica o de Universidad(No finalizada),Ayer,Ayer,Nunca,Nunca
+1881.0,Hombre,Dejó la escuela a los 17 años,Ayer,En el último año,Nunca,En el último año
+1882.0,Hombre,Grado Universitario,En el último mes,En el último año,Nunca,Nunca
+1883.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,Ayer,Nunca,En la última semana
+1884.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,En el último año,Nunca,Nunca
+1885.0,Hombre,Educación Técnica o de Universidad(No finalizada),En la última semana,En la última decada,Nunca,Nunca
+1886.0,Mujer,Grado Universitario,En el último mes,Ayer,Nunca,Nunca
+1887.0,Mujer,Educación Técnica o de Universidad(No finalizada),En la última semana,Ayer,Nunca,Nunca
+1888.0,Hombre,Educación Técnica o de Universidad(No finalizada),En el último mes,En la última decada,Nunca,Nunca
